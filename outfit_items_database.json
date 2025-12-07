@@ -1,0 +1,6036 @@
+{
+  "outfit_items": [
+    {
+      "id": "watch-n_room12019watch",
+      "name": "ساعة عادية",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "watch-gold-room12019watch",
+      "name": "ساعة ذهب",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "watch-silver-room12019watch",
+      "name": "ساعة فضة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "watch-diamond-room12019watch",
+      "name": "ساعة ماسية",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "watch-platinum-room12019watch",
+      "name": "ساعة بلاتين",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "beanie_knit_gray_item_17",
+      "name": "قبعة صوف رمادي",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "beanie_knit_black_item_16",
+      "name": "قبعة صوف أسود",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "beanie_knit_white_item_18",
+      "name": "قبعة صوف أبيض",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "beanie_knit_red_item_19",
+      "name": "قبعة صوف أحمر",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "beanie_knit_blue_item_20",
+      "name": "قبعة صوف أزرق",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "beanie_knit_green_item_21",
+      "name": "قبعة صوف أخضر",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "beanie_knit_purple_item_22",
+      "name": "قبعة صوف بنفسجي",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "beanie_knit_pink_item_23",
+      "name": "قبعة صوف وردي",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "beanie_knit_orange_item_24",
+      "name": "قبعة صوف برتقالي",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "beanie_knit_brown_item_25",
+      "name": "قبعة صوف بني",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "beanie_knit_yellow_item_26",
+      "name": "قبعة صوف أصفر",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "beanie_knit_cyan_item_27",
+      "name": "قبعة صوف سماوي",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "beanie_knit_gold_item_28",
+      "name": "قبعة صوف ذهب",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_straw_item_45",
+      "name": "قبعة قش",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "hat_straw_black_item_46",
+      "name": "قبعة قش سوداء",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "hat_straw_white_item_47",
+      "name": "قبعة قش بيضاء",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "hat_baseball_red_item_47",
+      "name": "قبعة بيسبول حمراء",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "hat_baseball_blue_item_48",
+      "name": "قبعة بيسبول زرقاء",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "hat_baseball_black_item_49",
+      "name": "قبعة بيسبول سوداء",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "hat_baseball_white_item_50",
+      "name": "قبعة بيسبول بيضاء",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "hat_baseball_green_item_51",
+      "name": "قبعة بيسبول خضراء",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "hat_baseball_yellow_item_52",
+      "name": "قبعة بيسبول صفراء",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "hat_trucker_red_item_53",
+      "name": "قبعة تراك أحمر",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "hat_trucker_blue_item_54",
+      "name": "قبعة تراك أزرق",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "hat_trucker_black_item_55",
+      "name": "قبعة تراك أسود",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "hat_fedora_black_item_56",
+      "name": "قبعة فيدورا أسود",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_fedora_brown_item_57",
+      "name": "قبعة فيدورا بني",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_fedora_gray_item_58",
+      "name": "قبعة فيدورا رمادي",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_fedora_white_item_59",
+      "name": "قبعة فيدورا أبيض",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_cowboy_brown_item_60",
+      "name": "قبعة كاوبوي بنية",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_cowboy_black_item_61",
+      "name": "قبعة كاوبوي سوداء",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_cowboy_white_item_62",
+      "name": "قبعة كاوبوي بيضاء",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_beret_black_item_63",
+      "name": "قبعة بيريه سوداء",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_beret_red_item_64",
+      "name": "قبعة بيريه حمراء",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_beret_blue_item_65",
+      "name": "قبعة بيريه زرقاء",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_beret_brown_item_66",
+      "name": "قبعة بيريه بنية",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_beanie_winter_black_item_67",
+      "name": "قبعة شتوية سوداء",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "hat_beanie_winter_white_item_68",
+      "name": "قبعة شتوية بيضاء",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "hat_beanie_winter_red_item_69",
+      "name": "قبعة شتوية حمراء",
+      "category": "hat",
+      "rarity": "common"
+    },
+    {
+      "id": "crown_gold_item_89",
+      "name": "تاج ذهب",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "crown_silver_item_88",
+      "name": "تاج فضة",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "crown_diamond_item_90",
+      "name": "تاج ماسي",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "crown_crystal_item_91",
+      "name": "تاج كريستال",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "crown_ruby_item_92",
+      "name": "تاج ياقوتي",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "crown_emerald_item_93",
+      "name": "تاج زمردي",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "crown_sapphire_item_94",
+      "name": "تاج ياقوتي أزرق",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "shirt_white_basic_item_1",
+      "name": "تيشيرت أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_black_basic_item_2",
+      "name": "تيشيرت أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_red_basic_item_3",
+      "name": "تيشيرت أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_blue_basic_item_4",
+      "name": "تيشيرت أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_green_basic_item_5",
+      "name": "تيشيرت أخضر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_yellow_basic_item_6",
+      "name": "تيشيرت أصفر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_pink_basic_item_7",
+      "name": "تيشيرت وردي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_purple_basic_item_8",
+      "name": "تيشيرت بنفسجي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_orange_basic_item_9",
+      "name": "تيشيرت برتقالي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_brown_basic_item_10",
+      "name": "تيشيرت بني",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_gray_basic_item_11",
+      "name": "تيشيرت رمادي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_teal_basic_item_12",
+      "name": "تيشيرت فيروزي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_navy_basic_item_13",
+      "name": "تيشيرت بحري",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_maroon_basic_item_14",
+      "name": "تيشيرت كستنائي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_cyan_basic_item_15",
+      "name": "تيشيرت سماوي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_lime_basic_item_16",
+      "name": "تيشيرت ليموني",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_gold_basic_item_17",
+      "name": "تيشيرت ذهبي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "shirt_silver_basic_item_18",
+      "name": "تيشيرت فضي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "shirt_striped_black_item_19",
+      "name": "تيشيرت مخطط أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_striped_red_item_20",
+      "name": "تيشيرت مخطط أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_striped_blue_item_21",
+      "name": "تيشيرت مخطط أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_polo_white_item_22",
+      "name": "بولو أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_polo_black_item_23",
+      "name": "بولو أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_polo_blue_item_24",
+      "name": "بولو أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_polo_red_item_25",
+      "name": "بولو أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_polo_green_item_26",
+      "name": "بولو أخضر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_polo_navy_item_27",
+      "name": "بولو بحري",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_v_neck_white_item_28",
+      "name": "تيشيرت V رقبة أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_v_neck_black_item_29",
+      "name": "تيشيرت V رقبة أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_v_neck_red_item_30",
+      "name": "تيشيرت V رقبة أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_button_white_item_31",
+      "name": "قميص أبيض بأزرار",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_button_black_item_32",
+      "name": "قميص أسود بأزرار",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_button_blue_item_33",
+      "name": "قميص أزرق بأزرار",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_button_red_item_34",
+      "name": "قميص أحمر بأزرار",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_button_green_item_35",
+      "name": "قميص أخضر بأزرار",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_button_checkered_item_36",
+      "name": "قميص مربعات",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_tank_white_item_37",
+      "name": "تانك أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_tank_black_item_38",
+      "name": "تانك أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_tank_red_item_39",
+      "name": "تانك أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_tank_blue_item_40",
+      "name": "تانك أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_tank_yellow_item_41",
+      "name": "تانك أصفر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_crop_white_item_42",
+      "name": "كروب أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_crop_black_item_43",
+      "name": "كروب أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_crop_red_item_44",
+      "name": "كروب أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_oversized_white_item_45",
+      "name": "تيشيرت أوفرسايز أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_oversized_black_item_46",
+      "name": "تيشيرت أوفرسايز أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_oversized_gray_item_47",
+      "name": "تيشيرت أوفرسايز رمادي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_oversized_brown_item_48",
+      "name": "تيشيرت أوفرسايز بني",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_long_sleeve_black_item_49",
+      "name": "تيشيرت طويل الأكمام أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_long_sleeve_white_item_50",
+      "name": "تيشيرت طويل الأكمام أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_long_sleeve_red_item_51",
+      "name": "تيشيرت طويل الأكمام أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_long_sleeve_blue_item_52",
+      "name": "تيشيرت طويل الأكمام أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_long_sleeve_green_item_53",
+      "name": "تيشيرت طويل الأكمام أخضر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_long_sleeve_gray_item_54",
+      "name": "تيشيرت طويل الأكمام رمادي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "jacket_leather_black_item_102",
+      "name": "جاكيت جلد أسود",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_leather_brown_item_103",
+      "name": "جاكيت جلد بني",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_leather_red_item_104",
+      "name": "جاكيت جلد أحمر",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_leather_white_item_105",
+      "name": "جاكيت جلد أبيض",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_leather_blue_item_106",
+      "name": "جاكيت جلد أزرق",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_denim_blue_item_107",
+      "name": "جاكيت جينز أزرق",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_denim_black_item_108",
+      "name": "جاكيت جينز أسود",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_denim_light_blue_item_109",
+      "name": "جاكيت جينز فاتح",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_denim_white_item_110",
+      "name": "جاكيت جينز أبيض",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_hoodie_black_item_111",
+      "name": "جاكيت هوديي أسود",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_hoodie_gray_item_112",
+      "name": "جاكيت هوديي رمادي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_hoodie_blue_item_113",
+      "name": "جاكيت هوديي أزرق",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_hoodie_red_item_114",
+      "name": "جاكيت هوديي أحمر",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_hoodie_green_item_115",
+      "name": "جاكيت هوديي أخضر",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_hoodie_white_item_116",
+      "name": "جاكيت هوديي أبيض",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_hoodie_navy_item_117",
+      "name": "جاكيت هوديي بحري",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_hoodie_purple_item_118",
+      "name": "جاكيت هوديي بنفسجي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_wool_black_item_119",
+      "name": "جاكيت صوف أسود",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_wool_gray_item_120",
+      "name": "جاكيت صوف رمادي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_wool_navy_item_121",
+      "name": "جاكيت صوف بحري",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_wool_brown_item_122",
+      "name": "جاكيت صوف بني",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_wool_camel_item_123",
+      "name": "جاكيت صوف جمل",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_wool_white_item_124",
+      "name": "جاكيت صوف أبيض",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_blazer_black_item_125",
+      "name": "بليزر أسود",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_blazer_navy_item_126",
+      "name": "بليزر بحري",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_blazer_gray_item_127",
+      "name": "بليزر رمادي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_blazer_burgundy_item_128",
+      "name": "بليزر عنابي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_blazer_white_item_129",
+      "name": "بليزر أبيض",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_suit_black_item_130",
+      "name": "جاكت البدلة أسود",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_suit_navy_item_131",
+      "name": "جاكت البدلة بحري",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_suit_gray_item_132",
+      "name": "جاكت البدلة رمادي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_suit_brown_item_133",
+      "name": "جاكت البدلة بني",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_trench_black_item_134",
+      "name": "ترنش أسود",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_trench_beige_item_135",
+      "name": "ترنش بيج",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_trench_tan_item_136",
+      "name": "ترنش تان",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_bomber_black_item_137",
+      "name": "جاكيت بومبر أسود",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_bomber_navy_item_138",
+      "name": "جاكيت بومبر بحري",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_bomber_red_item_139",
+      "name": "جاكيت بومبر أحمر",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_puffer_black_item_140",
+      "name": "جاكيت مبطن أسود",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_puffer_blue_item_141",
+      "name": "جاكيت مبطن أزرق",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_puffer_red_item_142",
+      "name": "جاكيت مبطن أحمر",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_puffer_white_item_143",
+      "name": "جاكيت مبطن أبيض",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_puffer_gray_item_144",
+      "name": "جاكيت مبطن رمادي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_windbreaker_black_item_145",
+      "name": "جاكيت ريح أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "jacket_windbreaker_blue_item_146",
+      "name": "جاكيت ريح أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "jacket_windbreaker_red_item_147",
+      "name": "جاكيت ريح أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "jacket_floral_item_148",
+      "name": "جاكيت مزهر",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jacket_patterned_item_149",
+      "name": "جاكيت منقوش",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "cardigan_black_item_150",
+      "name": "كارديجان أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_white_item_151",
+      "name": "كارديجان أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_gray_item_152",
+      "name": "كارديجان رمادي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_red_item_153",
+      "name": "كارديجان أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_blue_item_154",
+      "name": "كارديجان أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_brown_item_155",
+      "name": "كارديجان بني",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweater_black_item_156",
+      "name": "كنزة أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweater_white_item_157",
+      "name": "كنزة أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweater_gray_item_158",
+      "name": "كنزة رمادي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweater_navy_item_159",
+      "name": "كنزة بحري",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweater_red_item_160",
+      "name": "كنزة أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweater_green_item_161",
+      "name": "كنزة أخضر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweater_blue_item_162",
+      "name": "كنزة أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweater_brown_item_163",
+      "name": "كنزة بني",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweater_turtleneck_black_item_164",
+      "name": "كنزة تارتلنك أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweater_turtleneck_white_item_165",
+      "name": "كنزة تارتلنك أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweater_v_neck_black_item_166",
+      "name": "كنزة V رقبة أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweater_v_neck_white_item_167",
+      "name": "كنزة V رقبة أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_black_item_168",
+      "name": "سويتشيرت أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_white_item_169",
+      "name": "سويتشيرت أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_gray_item_170",
+      "name": "سويتشيرت رمادي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_red_item_171",
+      "name": "سويتشيرت أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_blue_item_172",
+      "name": "سويتشيرت أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_blue_basic_item_51",
+      "name": "بنطال أزرق",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_black_basic_item_50",
+      "name": "بنطال أسود",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_white_basic_item_52",
+      "name": "بنطال أبيض",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_gray_basic_item_53",
+      "name": "بنطال رمادي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_red_basic_item_54",
+      "name": "بنطال أحمر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_green_basic_item_55",
+      "name": "بنطال أخضر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_brown_basic_item_56",
+      "name": "بنطال بني",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_khaki_basic_item_57",
+      "name": "بنطال كاكي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_pink_basic_item_58",
+      "name": "بنطال وردي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_purple_basic_item_59",
+      "name": "بنطال بنفسجي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_orange_basic_item_60",
+      "name": "بنطال برتقالي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_yellow_basic_item_61",
+      "name": "بنطال أصفر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_teal_basic_item_62",
+      "name": "بنطال فيروزي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_navy_basic_item_63",
+      "name": "بنطال بحري",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_beige_basic_item_64",
+      "name": "بنطال بيج",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_maroon_basic_item_65",
+      "name": "بنطال كستنائي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_gold_basic_item_66",
+      "name": "بنطال ذهبي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "pants_silver_basic_item_67",
+      "name": "بنطال فضي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "pants_leather_black_item_68",
+      "name": "بنطال جلد أسود",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "pants_leather_brown_item_69",
+      "name": "بنطال جلد بني",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "pants_leather_red_item_70",
+      "name": "بنطال جلد أحمر",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "pants_denim_blue_item_71",
+      "name": "بنطال جينز أزرق",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_denim_black_item_72",
+      "name": "بنطال جينز أسود",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_denim_light_blue_item_73",
+      "name": "بنطال جينز فاتح",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_denim_dark_blue_item_74",
+      "name": "بنطال جينز داكن",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_denim_white_item_75",
+      "name": "بنطال جينز أبيض",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_denim_gray_item_76",
+      "name": "بنطال جينز رمادي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_cargo_black_item_77",
+      "name": "بنطال كارجو أسود",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_cargo_brown_item_78",
+      "name": "بنطال كارجو بني",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_cargo_green_item_79",
+      "name": "بنطال كارجو أخضر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_cargo_khaki_item_80",
+      "name": "بنطال كارجو كاكي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_cargo_olive_item_81",
+      "name": "بنطال كارجو زيتي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_cargo_navy_item_82",
+      "name": "بنطال كارجو بحري",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_chino_black_item_83",
+      "name": "بنطال تشينو أسود",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_chino_white_item_84",
+      "name": "بنطال تشينو أبيض",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_chino_khaki_item_85",
+      "name": "بنطال تشينو كاكي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_chino_navy_item_86",
+      "name": "بنطال تشينو بحري",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_chino_beige_item_87",
+      "name": "بنطال تشينو بيج",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_shorts_black_item_88",
+      "name": "شورت أسود",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_shorts_blue_item_89",
+      "name": "شورت أزرق",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_shorts_khaki_item_90",
+      "name": "شورت كاكي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_shorts_white_item_91",
+      "name": "شورت أبيض",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_shorts_denim_item_92",
+      "name": "شورت جينز",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_shorts_red_item_93",
+      "name": "شورت أحمر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_shorts_green_item_94",
+      "name": "شورت أخضر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_shorts_navy_item_95",
+      "name": "شورت بحري",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_shorts_brown_item_96",
+      "name": "شورت بني",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_sweatpants_black_item_97",
+      "name": "بنطال رياضي أسود",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_sweatpants_gray_item_98",
+      "name": "بنطال رياضي رمادي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_sweatpants_blue_item_99",
+      "name": "بنطال رياضي أزرق",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_sweatpants_white_item_100",
+      "name": "بنطال رياضي أبيض",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_sweatpants_red_item_101",
+      "name": "بنطال رياضي أحمر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_joggers_black_item_102",
+      "name": "جوغرز أسود",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_joggers_gray_item_103",
+      "name": "جوغرز رمادي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_joggers_blue_item_104",
+      "name": "جوغرز أزرق",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_joggers_white_item_105",
+      "name": "جوغرز أبيض",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "pants_formal_black_item_106",
+      "name": "بنطال رسمي أسود",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "pants_formal_navy_item_107",
+      "name": "بنطال رسمي بحري",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "pants_formal_gray_item_108",
+      "name": "بنطال رسمي رمادي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "pants_formal_brown_item_109",
+      "name": "بنطال رسمي بني",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "pants_tailored_black_item_110",
+      "name": "بنطال مخصص أسود",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "pants_tailored_white_item_111",
+      "name": "بنطال مخصص أبيض",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_short_pink_item_112",
+      "name": "تنورة قصيرة وردي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "skirt_short_red_item_113",
+      "name": "تنورة قصيرة حمراء",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "skirt_short_black_item_114",
+      "name": "تنورة قصيرة سوداء",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "skirt_short_blue_item_115",
+      "name": "تنورة قصيرة زرقاء",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "skirt_short_white_item_116",
+      "name": "تنورة قصيرة بيضاء",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "skirt_short_purple_item_117",
+      "name": "تنورة قصيرة بنفسجية",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "skirt_short_green_item_118",
+      "name": "تنورة قصيرة خضراء",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "skirt_short_yellow_item_119",
+      "name": "تنورة قصيرة صفراء",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "skirt_long_black_item_120",
+      "name": "تنورة طويلة سوداء",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_long_red_item_121",
+      "name": "تنورة طويلة حمراء",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_long_blue_item_122",
+      "name": "تنورة طويلة زرقاء",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_long_white_item_123",
+      "name": "تنورة طويلة بيضاء",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_long_navy_item_124",
+      "name": "تنورة طويلة بحرية",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_long_green_item_125",
+      "name": "تنورة طويلة خضراء",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_pleated_pink_item_126",
+      "name": "تنورة مشبكة وردي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_pleated_white_item_127",
+      "name": "تنورة مشبكة بيضاء",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_pleated_navy_item_128",
+      "name": "تنورة مشبكة بحرية",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_pleated_gray_item_129",
+      "name": "تنورة مشبكة رمادية",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_pencil_black_item_130",
+      "name": "تنورة ضيقة سوداء",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_pencil_white_item_131",
+      "name": "تنورة ضيقة بيضاء",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_pencil_red_item_132",
+      "name": "تنورة ضيقة حمراء",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_mini_black_item_133",
+      "name": "تنورة ميني سوداء",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "skirt_mini_white_item_134",
+      "name": "تنورة ميني بيضاء",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "skirt_mini_red_item_135",
+      "name": "تنورة ميني حمراء",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "skirt_midi_black_item_136",
+      "name": "تنورة ميدي سوداء",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "skirt_midi_white_item_137",
+      "name": "تنورة ميدي بيضاء",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "skirt_maxi_black_item_138",
+      "name": "تنورة ماكسي سوداء",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_maxi_white_item_139",
+      "name": "تنورة ماكسي بيضاء",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_floral_item_140",
+      "name": "تنورة مزهرة",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "skirt_denim_black_item_141",
+      "name": "تنورة جينز سوداء",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "skirt_denim_blue_item_142",
+      "name": "تنورة جينز زرقاء",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "dress_black_item_143",
+      "name": "فستان أسود",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "dress_white_item_144",
+      "name": "فستان أبيض",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "dress_red_item_145",
+      "name": "فستان أحمر",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "dress_blue_item_146",
+      "name": "فستان أزرق",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "dress_pink_item_147",
+      "name": "فستان وردي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "dress_green_item_148",
+      "name": "فستان أخضر",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "dress_elegant_black_item_149",
+      "name": "فستان أنيق أسود",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "dress_elegant_white_item_150",
+      "name": "فستان أنيق أبيض",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "dress_elegant_red_item_151",
+      "name": "فستان أنيق أحمر",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "dress_casual_black_item_152",
+      "name": "فستان كاجوال أسود",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "dress_casual_white_item_153",
+      "name": "فستان كاجوال أبيض",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "dress_casual_blue_item_154",
+      "name": "فستان كاجوال أزرق",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "dress_summer_item_155",
+      "name": "فستان صيفي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "dress_party_item_156",
+      "name": "فستان حفلة",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "dress_wedding_item_157",
+      "name": "فستان زفاف",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "dress_maxi_item_158",
+      "name": "فستان ماكسي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "dress_mini_item_159",
+      "name": "فستان ميني",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "dress_midi_item_160",
+      "name": "فستان ميدي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "dress_bodycon_item_161",
+      "name": "فستان ضيق",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "dress_flowy_item_162",
+      "name": "فستان فضفاض",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_sneaker_white_item_201",
+      "name": "حذاء رياضي أبيض",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_sneaker_black_item_202",
+      "name": "حذاء رياضي أسود",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_sneaker_red_item_203",
+      "name": "حذاء رياضي أحمر",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_sneaker_blue_item_204",
+      "name": "حذاء رياضي أزرق",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_sneaker_green_item_205",
+      "name": "حذاء رياضي أخضر",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_sneaker_yellow_item_206",
+      "name": "حذاء رياضي أصفر",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_sneaker_pink_item_207",
+      "name": "حذاء رياضي وردي",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_sneaker_purple_item_208",
+      "name": "حذاء رياضي بنفسجي",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_sneaker_orange_item_209",
+      "name": "حذاء رياضي برتقالي",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_sneaker_gold_item_210",
+      "name": "حذاء رياضي ذهبي",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_sneaker_silver_item_211",
+      "name": "حذاء رياضي فضي",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_formal_black_item_212",
+      "name": "حذاء رسمي أسود",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_formal_brown_item_213",
+      "name": "حذاء رسمي بني",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_formal_white_item_214",
+      "name": "حذاء رسمي أبيض",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_formal_navy_item_215",
+      "name": "حذاء رسمي بحري",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_formal_burgundy_item_216",
+      "name": "حذاء رسمي عنابي",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_casual_black_item_217",
+      "name": "حذاء كاجوال أسود",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_casual_brown_item_218",
+      "name": "حذاء كاجوال بني",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_casual_white_item_219",
+      "name": "حذاء كاجوال أبيض",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_casual_beige_item_220",
+      "name": "حذاء كاجوال بيج",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_casual_tan_item_221",
+      "name": "حذاء كاجوال تان",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_boot_black_item_222",
+      "name": "جزمة أسودة",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_boot_brown_item_223",
+      "name": "جزمة بنية",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_boot_white_item_224",
+      "name": "جزمة بيضاء",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_boot_gray_item_225",
+      "name": "جزمة رمادية",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_boot_red_item_226",
+      "name": "جزمة حمراء",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_boot_leather_item_227",
+      "name": "جزمة جلد",
+      "category": "shoes",
+      "rarity": "epic"
+    },
+    {
+      "id": "shoes_boot_suede_item_228",
+      "name": "جزمة زمشة",
+      "category": "shoes",
+      "rarity": "epic"
+    },
+    {
+      "id": "shoes_combat_black_item_229",
+      "name": "جزمة قتالية سوداء",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_combat_brown_item_230",
+      "name": "جزمة قتالية بنية",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_combat_gray_item_231",
+      "name": "جزمة قتالية رمادية",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_heels_black_item_232",
+      "name": "كعب أسود",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_heels_red_item_233",
+      "name": "كعب أحمر",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_heels_pink_item_234",
+      "name": "كعب وردي",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_heels_nude_item_235",
+      "name": "كعب حي",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_heels_white_item_236",
+      "name": "كعب أبيض",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_heels_gold_item_237",
+      "name": "كعب ذهب",
+      "category": "shoes",
+      "rarity": "epic"
+    },
+    {
+      "id": "shoes_heels_silver_item_238",
+      "name": "كعب فضة",
+      "category": "shoes",
+      "rarity": "epic"
+    },
+    {
+      "id": "shoes_heels_diamond_item_239",
+      "name": "كعب ماسي",
+      "category": "shoes",
+      "rarity": "legendary"
+    },
+    {
+      "id": "shoes_stiletto_black_item_240",
+      "name": "كعب ستيليتو أسود",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_stiletto_red_item_241",
+      "name": "كعب ستيليتو أحمر",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_stiletto_nude_item_242",
+      "name": "كعب ستيليتو حي",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_wedge_black_item_243",
+      "name": "كعب إسفين أسود",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_wedge_brown_item_244",
+      "name": "كعب إسفين بني",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_wedge_tan_item_245",
+      "name": "كعب إسفين تان",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_loafer_black_item_246",
+      "name": "كلوفر أسود",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_loafer_brown_item_247",
+      "name": "كلوفر بني",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_loafer_tan_item_248",
+      "name": "كلوفر تان",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_oxford_black_item_249",
+      "name": "أكسفورد أسود",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_oxford_brown_item_250",
+      "name": "أكسفورد بني",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_oxford_white_item_251",
+      "name": "أكسفورد أبيض",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_flip_flop_black_item_252",
+      "name": "شبشب أسود",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_flip_flop_white_item_253",
+      "name": "شبشب أبيض",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_flip_flop_blue_item_254",
+      "name": "شبشب أزرق",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_flip_flop_red_item_255",
+      "name": "شبشب أحمر",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_flip_flop_pink_item_256",
+      "name": "شبشب وردي",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_sandal_black_item_257",
+      "name": "صندل أسود",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_sandal_brown_item_258",
+      "name": "صندل بني",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_sandal_white_item_259",
+      "name": "صندل أبيض",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_sandal_tan_item_260",
+      "name": "صندل تان",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_sandal_gold_item_261",
+      "name": "صندل ذهب",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_sandal_silver_item_262",
+      "name": "صندل فضة",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_sport_black_item_263",
+      "name": "حذاء رياضة أسود",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_sport_white_item_264",
+      "name": "حذاء رياضة أبيض",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_sport_red_item_265",
+      "name": "حذاء رياضة أحمر",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_basketball_black_item_266",
+      "name": "حذاء كرة سلة أسود",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_basketball_white_item_267",
+      "name": "حذاء كرة سلة أبيض",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_basketball_red_item_268",
+      "name": "حذاء كرة سلة أحمر",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_running_black_item_269",
+      "name": "حذاء جري أسود",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_running_white_item_270",
+      "name": "حذاء جري أبيض",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_running_blue_item_271",
+      "name": "حذاء جري أزرق",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_hiking_black_item_272",
+      "name": "حذاء مسح أسود",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_hiking_brown_item_273",
+      "name": "حذاء مسح بني",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_hiking_tan_item_274",
+      "name": "حذاء مسح تان",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_slipper_black_item_275",
+      "name": "نعل أسود",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_slipper_white_item_276",
+      "name": "نعل أبيض",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_slipper_gray_item_277",
+      "name": "نعل رمادي",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_slipper_brown_item_278",
+      "name": "نعل بني",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_slipper_pink_item_279",
+      "name": "نعل وردي",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_crocs_black_item_280",
+      "name": "كروكس أسود",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_crocs_white_item_281",
+      "name": "كروكس أبيض",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_crocs_blue_item_282",
+      "name": "كروكس أزرق",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_crocs_red_item_283",
+      "name": "كروكس أحمر",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_crocs_green_item_284",
+      "name": "كروكس أخضر",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_platform_black_item_285",
+      "name": "حذاء منصة أسود",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_platform_white_item_286",
+      "name": "حذاء منصة أبيض",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_platform_red_item_287",
+      "name": "حذاء منصة أحمر",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "ring_gold_item_301",
+      "name": "خاتم ذهب",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "ring_silver_item_302",
+      "name": "خاتم فضة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "ring_diamond_item_303",
+      "name": "خاتم ماسي",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "ring_ruby_item_304",
+      "name": "خاتم ياقوت",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "ring_sapphire_item_305",
+      "name": "خاتم ياقوت أزرق",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "ring_emerald_item_306",
+      "name": "خاتم زمرد",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "ring_black_item_307",
+      "name": "خاتم أسود",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "ring_pearl_item_308",
+      "name": "خاتم لؤلؤ",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "ring_opal_item_309",
+      "name": "خاتم أوبال",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "ring_amethyst_item_310",
+      "name": "خاتم أميثيست",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "ring_aquamarine_item_311",
+      "name": "خاتم أكوامارين",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "ring_topaz_item_312",
+      "name": "خاتم توباز",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "ring_turquoise_item_313",
+      "name": "خاتم فيروزي",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "ring_jade_item_314",
+      "name": "خاتم جاد",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "ring_moonstone_item_315",
+      "name": "خاتم حجر القمر",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "ring_onyx_item_316",
+      "name": "خاتم أونيكس",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "ring_garnet_item_317",
+      "name": "خاتم جرنيت",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "ring_citrine_item_318",
+      "name": "خاتم سترين",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "ring_peridot_item_319",
+      "name": "خاتم بيريدوت",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "ring_tanzanite_item_320",
+      "name": "خاتم تنزانيت",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "necklace_silver_item_321",
+      "name": "قلادة فضية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "necklace_gold_item_322",
+      "name": "قلادة ذهبية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "necklace_pearl_item_323",
+      "name": "قلادة لؤلؤ",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "necklace_diamond_item_324",
+      "name": "قلادة ماسية",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "necklace_pendant_item_325",
+      "name": "قلادة ساحرة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "necklace_choker_item_326",
+      "name": "طوق ملفوف",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "necklace_chain_item_327",
+      "name": "قلادة سلسلة",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "necklace_locket_item_328",
+      "name": "قلادة دانتيل",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "necklace_cross_item_329",
+      "name": "قلادة صليب",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "necklace_heart_item_330",
+      "name": "قلادة قلب",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "necklace_star_item_331",
+      "name": "قلادة نجم",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "necklace_moon_item_332",
+      "name": "قلادة قمر",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "necklace_sun_item_333",
+      "name": "قلادة شمس",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "necklace_feather_item_334",
+      "name": "قلادة ريشة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "necklace_butterfly_item_335",
+      "name": "قلادة فراشة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "necklace_flower_item_336",
+      "name": "قلادة زهرة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "necklace_crystal_item_337",
+      "name": "قلادة كريستال",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "necklace_turquoise_item_338",
+      "name": "قلادة فيروزي",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bracelet_gold_item_339",
+      "name": "سوار ذهب",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bracelet_silver_item_340",
+      "name": "سوار فضة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bracelet_diamond_item_341",
+      "name": "سوار ماسي",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "bracelet_beaded_item_342",
+      "name": "سوار خرزات",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "bracelet_leather_item_343",
+      "name": "سوار جلد",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bracelet_chain_item_344",
+      "name": "سوار سلسلة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bracelet_tennis_item_345",
+      "name": "سوار تنس",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "bracelet_bangle_item_346",
+      "name": "سوار بانجل",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bracelet_cuff_item_347",
+      "name": "سوار كفة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bracelet_charm_item_348",
+      "name": "سوار سحر",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bracelet_leather_braided_item_349",
+      "name": "سوار جلد ضفيرة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bracelet_pearl_item_350",
+      "name": "سوار لؤلؤ",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "bracelet_crystal_item_351",
+      "name": "سوار كريستال",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bracelet_turquoise_item_352",
+      "name": "سوار فيروزي",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bracelet_rose_gold_item_353",
+      "name": "سوار ذهب وردي",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bracelet_white_gold_item_354",
+      "name": "سوار ذهب أبيض",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bracelet_platinum_item_355",
+      "name": "سوار بلاتين",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "bag_black_item_356",
+      "name": "حقيبة سوداء",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "bag_brown_item_357",
+      "name": "حقيبة بنية",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "bag_leather_item_358",
+      "name": "حقيبة جلد",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bag_designer_item_359",
+      "name": "حقيبة فاخرة",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "bag_backpack_item_360",
+      "name": "حقيبة ظهر",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "bag_crossbody_item_361",
+      "name": "حقيبة صدرية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bag_tote_item_362",
+      "name": "حقيبة توت",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "bag_shoulder_item_363",
+      "name": "حقيبة كتف",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "bag_clutch_item_364",
+      "name": "حقيبة كلاتش",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bag_hobo_item_365",
+      "name": "حقيبة هوبو",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bag_satchel_item_366",
+      "name": "حقيبة ساتشل",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bag_messenger_item_367",
+      "name": "حقيبة رسول",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bag_bucket_item_368",
+      "name": "حقيبة دلو",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bag_bowling_item_369",
+      "name": "حقيبة بولينج",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bag_boston_item_370",
+      "name": "حقيبة بوسطن",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "bag_luggage_item_371",
+      "name": "حقيبة سفر",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "bag_duffel_item_372",
+      "name": "حقيبة دافل",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "bag_weekender_item_373",
+      "name": "حقيبة نهاية الأسبوع",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "scarf_silk_item_374",
+      "name": "وشاح حرير",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "scarf_wool_item_375",
+      "name": "وشاح صوف",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "scarf_lace_item_376",
+      "name": "وشاح دانتيل",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "scarf_paisley_item_377",
+      "name": "وشاح منقوش",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "scarf_striped_item_378",
+      "name": "وشاح مخطط",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "scarf_polka_item_379",
+      "name": "وشاح بنقاط",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "scarf_floral_item_380",
+      "name": "وشاح مزهر",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "scarf_animal_item_381",
+      "name": "وشاح حيواني",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "scarf_geometric_item_382",
+      "name": "وشاح هندسي",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "scarf_gradient_item_383",
+      "name": "وشاح متدرج",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "glasses_sunglasses_item_384",
+      "name": "نظارة شمسية",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "glasses_aviator_item_385",
+      "name": "نظارة طيار",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "glasses_cat_eye_item_386",
+      "name": "نظارة عين القطة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "glasses_wayfarer_item_387",
+      "name": "نظارة واي فيرر",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "glasses_round_item_388",
+      "name": "نظارة دائرية",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "glasses_oversized_item_389",
+      "name": "نظارة أوفرسايز",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "glasses_clubmaster_item_390",
+      "name": "نظارة كلوبماستر",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "glasses_browline_item_391",
+      "name": "نظارة براو لاين",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "glasses_geometric_item_392",
+      "name": "نظارة هندسية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "glasses_shield_item_393",
+      "name": "نظارة شيلد",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "glasses_hexagon_item_394",
+      "name": "نظارة سداسية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "glasses_rectangle_item_395",
+      "name": "نظارة مستطيلة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "glasses_square_item_396",
+      "name": "نظارة مربعة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "glasses_oval_item_397",
+      "name": "نظارة بيضاوية",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "glasses_tortoiseshell_item_398",
+      "name": "نظارة سلحفاة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "mask_face_item_399",
+      "name": "قناع وجه",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "mask_venetian_item_400",
+      "name": "قناع فينيسي",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "mask_masquerade_item_401",
+      "name": "قناع مقنع",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "mask_domino_item_402",
+      "name": "قناع دومينو",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "mask_eye_item_403",
+      "name": "قناع عين",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "mask_half_item_404",
+      "name": "قناع نصفي",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "mask_full_item_405",
+      "name": "قناع كامل",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "mask_feathered_item_406",
+      "name": "قناع ريشة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "mask_sequin_item_407",
+      "name": "قناع ترتر",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "mask_golden_item_408",
+      "name": "قناع ذهبي",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "earrings_gold_item_409",
+      "name": "أقراط ذهب",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "earrings_silver_item_410",
+      "name": "أقراط فضة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "earrings_diamond_item_411",
+      "name": "أقراط ماسية",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "earrings_pearl_item_412",
+      "name": "أقراط لؤلؤ",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "earrings_crystal_item_413",
+      "name": "أقراط كريستال",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "earrings_stud_item_414",
+      "name": "أقراط مسمار",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "earrings_hoop_item_415",
+      "name": "أقراط حلقية",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "earrings_chandelier_item_416",
+      "name": "أقراط ثريا",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "earrings_dangle_item_417",
+      "name": "أقراط معلقة",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "earrings_huggie_item_418",
+      "name": "أقراط هجي",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "earrings_jackets_item_419",
+      "name": "أقراط جاكيتس",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "earrings_cuff_item_420",
+      "name": "أقراط كفة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "belt_black_item_421",
+      "name": "حزام أسود",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "belt_brown_item_422",
+      "name": "حزام بني",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "belt_white_item_423",
+      "name": "حزام أبيض",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "belt_red_item_424",
+      "name": "حزام أحمر",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "belt_blue_item_425",
+      "name": "حزام أزرق",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "belt_green_item_426",
+      "name": "حزام أخضر",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "belt_leather_item_427",
+      "name": "حزام جلد",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "belt_suede_item_428",
+      "name": "حزام زمشة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "belt_gold_item_429",
+      "name": "حزام ذهب",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "belt_silver_item_430",
+      "name": "حزام فضة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "belt_chain_item_431",
+      "name": "حزام سلسلة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "belt_studded_item_432",
+      "name": "حزام مسمار",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "belt_braided_item_433",
+      "name": "حزام ضفيرة",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "belt_rope_item_434",
+      "name": "حزام حبل",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "belt_elastic_item_435",
+      "name": "حزام مرن",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "belt_wide_item_436",
+      "name": "حزام عريض",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "hairclip_gold_item_437",
+      "name": "دبوس شعر ذهب",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "hairclip_silver_item_438",
+      "name": "دبوس شعر فضة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "hairclip_pearl_item_439",
+      "name": "دبوس شعر لؤلؤ",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "hairclip_rose_item_440",
+      "name": "دبوس شعر وردة",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "hairclip_flower_item_441",
+      "name": "دبوس شعر زهرة",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "hairclip_butterfly_item_442",
+      "name": "دبوس شعر فراشة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "hairclip_crystal_item_443",
+      "name": "دبوس شعر كريستال",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "hairclip_star_item_444",
+      "name": "دبوس شعر نجم",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "hairclip_moon_item_445",
+      "name": "دبوس شعر قمر",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "hairclip_heart_item_446",
+      "name": "دبوس شعر قلب",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "bow_hair_item_447",
+      "name": "ربطة شعر",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "bow_tie_item_448",
+      "name": "ربطة عنق",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "bow_ribbon_item_449",
+      "name": "ربطة شريط",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "bow_velvet_item_450",
+      "name": "ربطة مخمل",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "headband_black_item_451",
+      "name": "عصابة رأس سوداء",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "headband_white_item_452",
+      "name": "عصابة رأس بيضاء",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "headband_red_item_453",
+      "name": "عصابة رأس حمراء",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "headband_blue_item_454",
+      "name": "عصابة رأس زرقاء",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "headband_gold_item_455",
+      "name": "عصابة رأس ذهبية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "headband_silver_item_456",
+      "name": "عصابة رأس فضية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "headband_pearl_item_457",
+      "name": "عصابة رأس لؤلؤية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "tiara_gold_item_458",
+      "name": "تيارا ذهبية",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "tiara_silver_item_459",
+      "name": "تيارا فضية",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "tiara_diamond_item_460",
+      "name": "تيارا ماسية",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "tiara_crystal_item_461",
+      "name": "تيارا كريستال",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "gloves_black_item_462",
+      "name": "قفازات سوداء",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "gloves_white_item_463",
+      "name": "قفازات بيضاء",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "gloves_red_item_464",
+      "name": "قفازات حمراء",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "gloves_leather_item_465",
+      "name": "قفازات جلد",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "gloves_fur_item_466",
+      "name": "قفازات فرو",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "gloves_lace_item_467",
+      "name": "قفازات دانتيل",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "gloves_fingerless_item_468",
+      "name": "قفازات بدون أصابع",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "gloves_mittens_item_469",
+      "name": "قفازات صوف",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "gloves_long_item_470",
+      "name": "قفازات طويلة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "sunglasses_oval_item_471",
+      "name": "نظارة شمسية بيضاوية",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "sunglasses_square_item_472",
+      "name": "نظارة شمسية مربعة",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "sunglasses_round_item_473",
+      "name": "نظارة شمسية دائرية",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "sunglasses_cat_eye_item_474",
+      "name": "نظارة شمسية عين القطة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "sunglasses_mirrored_item_475",
+      "name": "نظارة شمسية عاكسة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "sunglasses_gradient_item_476",
+      "name": "نظارة شمسية متدرجة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "sunglasses_dark_item_477",
+      "name": "نظارة شمسية داكنة",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "sunglasses_light_item_478",
+      "name": "نظارة شمسية فاتحة",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "sunglasses_gold_item_479",
+      "name": "نظارة شمسية ذهبية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "sunglasses_silver_item_480",
+      "name": "نظارة شمسية فضية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "body_tattoo_dragon_item_481",
+      "name": "وشم تنين",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "body_tattoo_flower_item_482",
+      "name": "وشم زهرة",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "body_tattoo_bird_item_483",
+      "name": "وشم طائر",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "body_tattoo_heart_item_484",
+      "name": "وشم قلب",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "body_tattoo_star_item_485",
+      "name": "وشم نجم",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "body_tattoo_skull_item_486",
+      "name": "وشم جمجمة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "body_tattoo_rose_item_487",
+      "name": "وشم وردة",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "body_tattoo_anchor_item_488",
+      "name": "وشم مرساة",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "body_tattoo_phoenix_item_489",
+      "name": "وشم فينيكس",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "body_tattoo_lion_item_490",
+      "name": "وشم أسد",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "body_tattoo_tiger_item_491",
+      "name": "وشم نمر",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "body_tattoo_snake_item_492",
+      "name": "وشم ثعبان",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "body_tattoo_butterfly_item_493",
+      "name": "وشم فراشة",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "body_tattoo_moon_item_494",
+      "name": "وشم قمر",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "body_tattoo_sun_item_495",
+      "name": "وشم شمس",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "body_tattoo_mermaid_item_496",
+      "name": "وشم حورية بحر",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "body_tattoo_angel_item_497",
+      "name": "وشم ملاك",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "body_tattoo_demon_item_498",
+      "name": "وشم شيطان",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "body_tattoo_fairy_item_499",
+      "name": "وشم جنية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "body_tattoo_tribal_item_500",
+      "name": "وشم قبلي",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_jersey_black_item_501",
+      "name": "جيرسي رياضي أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_jersey_white_item_502",
+      "name": "جيرسي رياضي أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_jersey_red_item_503",
+      "name": "جيرسي رياضي أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_jersey_blue_item_504",
+      "name": "جيرسي رياضي أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_jersey_yellow_item_505",
+      "name": "جيرسي رياضي أصفر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_tank_black_item_506",
+      "name": "تانك رياضي أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_tank_white_item_507",
+      "name": "تانك رياضي أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_tank_gray_item_508",
+      "name": "تانك رياضي رمادي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_tank_pink_item_509",
+      "name": "تانك رياضي وردي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_leggings_black_item_510",
+      "name": "لجينز رياضي أسود",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_leggings_white_item_511",
+      "name": "لجينز رياضي أبيض",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_leggings_gray_item_512",
+      "name": "لجينز رياضي رمادي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_leggings_navy_item_513",
+      "name": "لجينز رياضي بحري",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_shorts_black_item_514",
+      "name": "شورت رياضي أسود",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_shorts_white_item_515",
+      "name": "شورت رياضي أبيض",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_shorts_blue_item_516",
+      "name": "شورت رياضي أزرق",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_shorts_red_item_517",
+      "name": "شورت رياضي أحمر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_shorts_pink_item_518",
+      "name": "شورت رياضي وردي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_bra_black_item_519",
+      "name": "حمالة رياضية سوداء",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sports_bra_white_item_520",
+      "name": "حمالة رياضية بيضاء",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tuxedo_black_item_521",
+      "name": "بدلة تكسيدو سوداء",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "tuxedo_white_item_522",
+      "name": "بدلة تكسيدو بيضاء",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "tuxedo_navy_item_523",
+      "name": "بدلة تكسيدو بحرية",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "dress_gown_black_item_524",
+      "name": "فستان أنيق أسود",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "dress_gown_white_item_525",
+      "name": "فستان أنيق أبيض",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "dress_gown_red_item_526",
+      "name": "فستان أنيق أحمر",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "dress_gown_blue_item_527",
+      "name": "فستان أنيق أزرق",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "dress_gown_purple_item_528",
+      "name": "فستان أنيق بنفسجي",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "dress_gown_gold_item_529",
+      "name": "فستان أنيق ذهبي",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "dress_gown_silver_item_530",
+      "name": "فستان أنيق فضي",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "kimono_red_item_531",
+      "name": "كيمونو أحمر",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "kimono_black_item_532",
+      "name": "كيمونو أسود",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "kimono_white_item_533",
+      "name": "كيمونو أبيض",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "kimono_blue_item_534",
+      "name": "كيمونو أزرق",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "kimono_gold_item_535",
+      "name": "كيمونو ذهبي",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "sari_red_item_536",
+      "name": "ساري أحمر",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "sari_blue_item_537",
+      "name": "ساري أزرق",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "sari_gold_item_538",
+      "name": "ساري ذهبي",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "sari_green_item_539",
+      "name": "ساري أخضر",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "sari_purple_item_540",
+      "name": "ساري بنفسجي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "lederhosen_brown_item_541",
+      "name": "ليدرهوسن بني",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "lederhosen_black_item_542",
+      "name": "ليدرهوسن أسود",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "dirndl_red_item_543",
+      "name": "ديرندل أحمر",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "dirndl_blue_item_544",
+      "name": "ديرندل أزرق",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "dirndl_green_item_545",
+      "name": "ديرندل أخضر",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "dirndl_white_item_546",
+      "name": "ديرندل أبيض",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "kilt_black_item_547",
+      "name": "كيلت أسود",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "kilt_tartan_item_548",
+      "name": "كيلت تارتان",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "kilt_red_item_549",
+      "name": "كيلت أحمر",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "kilt_green_item_550",
+      "name": "كيلت أخضر",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "perfume_rose_item_551",
+      "name": "عطر الورد",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "perfume_vanilla_item_552",
+      "name": "عطر الفانيليا",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "perfume_musk_item_553",
+      "name": "عطر المسك",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "perfume_sandalwood_item_554",
+      "name": "عطر الصندل",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "perfume_ocean_item_555",
+      "name": "عطر المحيط",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "perfume_forest_item_556",
+      "name": "عطر الغابة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "perfume_floral_item_557",
+      "name": "عطر زهري",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "perfume_spicy_item_558",
+      "name": "عطر حار",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "perfume_fruity_item_559",
+      "name": "عطر فاكهي",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "perfume_woody_item_560",
+      "name": "عطر خشبي",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "umbrella_black_item_561",
+      "name": "مظلة سوداء",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "umbrella_red_item_562",
+      "name": "مظلة حمراء",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "umbrella_white_item_563",
+      "name": "مظلة بيضاء",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "umbrella_blue_item_564",
+      "name": "مظلة زرقاء",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "umbrella_patterned_item_565",
+      "name": "مظلة منقوشة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "cane_black_item_566",
+      "name": "عصا سوداء",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "cane_wood_item_567",
+      "name": "عصا خشبية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "cane_golden_item_568",
+      "name": "عصا ذهبية",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "cane_jeweled_item_569",
+      "name": "عصا مرصعة",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "cane_silver_item_570",
+      "name": "عصا فضية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_ballet_pointe_item_571",
+      "name": "حذاء باليه",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_ballet_flat_item_572",
+      "name": "حذاء باليه مسطح",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_tap_black_item_573",
+      "name": "حذاء تاب أسود",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_tap_silver_item_574",
+      "name": "حذاء تاب فضي",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_tap_gold_item_575",
+      "name": "حذاء تاب ذهبي",
+      "category": "shoes",
+      "rarity": "epic"
+    },
+    {
+      "id": "shoes_roller_skate_item_576",
+      "name": "زحافات",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_ice_skate_item_577",
+      "name": "حذاء تزلج جليدي",
+      "category": "shoes",
+      "rarity": "rare"
+    },
+    {
+      "id": "shoes_cleats_black_item_578",
+      "name": "حذاء بريق أسود",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_cleats_white_item_579",
+      "name": "حذاء بريق أبيض",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "shoes_cleats_red_item_580",
+      "name": "حذاء بريق أحمر",
+      "category": "shoes",
+      "rarity": "common"
+    },
+    {
+      "id": "hat_viking_helmet_item_581",
+      "name": "خوذة فايكنج",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_roman_helmet_item_582",
+      "name": "خوذة رومانية",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_pirate_item_583",
+      "name": "قبعة قراصنة",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_wizard_black_item_584",
+      "name": "قبعة ساحر سوداء",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_wizard_blue_item_585",
+      "name": "قبعة ساحر زرقاء",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_wizard_purple_item_586",
+      "name": "قبعة ساحر بنفسجية",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_witch_black_item_587",
+      "name": "قبعة ساحرة سوداء",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_witch_purple_item_588",
+      "name": "قبعة ساحرة بنفسجية",
+      "category": "hat",
+      "rarity": "rare"
+    },
+    {
+      "id": "hat_crown_simple_item_589",
+      "name": "تاج بسيط",
+      "category": "hat",
+      "rarity": "epic"
+    },
+    {
+      "id": "hat_halo_item_590",
+      "name": "هالة",
+      "category": "hat",
+      "rarity": "epic"
+    },
+    {
+      "id": "jewelry_ankle_bracelet_item_591",
+      "name": "سوار الكاحل",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "jewelry_ankle_gold_item_592",
+      "name": "سوار الكاحل الذهب",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "jewelry_ankle_silver_item_593",
+      "name": "سوار الكاحل الفضة",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "jewelry_body_chain_item_594",
+      "name": "سلسلة جسم",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "jewelry_body_gold_item_595",
+      "name": "سلسلة جسم ذهب",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "jewelry_body_silver_item_596",
+      "name": "سلسلة جسم فضة",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "jewelry_hip_chain_item_597",
+      "name": "سلسلة الوركين",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "jewelry_hip_gold_item_598",
+      "name": "سلسلة الوركين ذهب",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "jewelry_hip_silver_item_599",
+      "name": "سلسلة الوركين فضة",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "jewelry_waist_chain_item_600",
+      "name": "سلسلة الخصر",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "prop_fan_black_item_601",
+      "name": "مروحة سوداء",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "prop_fan_white_item_602",
+      "name": "مروحة بيضاء",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "prop_fan_gold_item_603",
+      "name": "مروحة ذهبية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "prop_cigarette_item_604",
+      "name": "سيجارة",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "prop_pipe_item_605",
+      "name": "غليون",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "prop_cigar_item_606",
+      "name": "سيجار",
+      "category": "accessories",
+      "rarity": "common"
+    },
+    {
+      "id": "prop_monocle_item_607",
+      "name": "نظارة أحادية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "prop_monocle_gold_item_608",
+      "name": "نظارة أحادية ذهبية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "prop_lorgnette_item_609",
+      "name": "لورنيت",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "prop_lorgnette_gold_item_610",
+      "name": "لورنيت ذهبية",
+      "category": "accessories",
+      "rarity": "rare"
+    },
+    {
+      "id": "vest_black_item_611",
+      "name": "صدرية سوداء",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "vest_white_item_612",
+      "name": "صدرية بيضاء",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "vest_brown_item_613",
+      "name": "صدرية بنية",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "vest_leather_black_item_614",
+      "name": "صدرية جلد سوداء",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "vest_leather_brown_item_615",
+      "name": "صدرية جلد بنية",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "vest_denim_item_616",
+      "name": "صدرية جينز",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "coat_long_black_item_617",
+      "name": "معطف طويل أسود",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "coat_long_navy_item_618",
+      "name": "معطف طويل بحري",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "coat_long_brown_item_619",
+      "name": "معطف طويل بني",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "coat_long_white_item_620",
+      "name": "معطف طويل أبيض",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "luxury_diamond_necklace_item_621",
+      "name": "قلادة ماسية فاخرة",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_diamond_bracelet_item_622",
+      "name": "سوار ماسي فاخر",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_diamond_ring_item_623",
+      "name": "خاتم ماسي فاخر",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_diamond_earrings_item_624",
+      "name": "أقراط ماسية فاخرة",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_ruby_set_item_625",
+      "name": "مجموعة ياقوتية",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_emerald_set_item_626",
+      "name": "مجموعة زمردية",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_sapphire_set_item_627",
+      "name": "مجموعة ياقوتية زرقاء",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_pearl_set_item_628",
+      "name": "مجموعة لؤلؤية",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_platinum_set_item_629",
+      "name": "مجموعة بلاتينية",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_gold_set_item_630",
+      "name": "مجموعة ذهبية",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "shirt_casual_black_item_631",
+      "name": "قميص عادي أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_casual_white_item_632",
+      "name": "قميص عادي أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_casual_red_item_633",
+      "name": "قميص عادي أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_casual_blue_item_634",
+      "name": "قميص عادي أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_casual_green_item_635",
+      "name": "قميص عادي أخضر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_casual_yellow_item_636",
+      "name": "قميص عادي أصفر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_casual_orange_item_637",
+      "name": "قميص عادي برتقالي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_casual_purple_item_638",
+      "name": "قميص عادي بنفسجي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_casual_pink_item_639",
+      "name": "قميص عادي وردي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_casual_brown_item_640",
+      "name": "قميص عادي بني",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_casual_gray_item_641",
+      "name": "قميص عادي رمادي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_casual_silver_item_642",
+      "name": "قميص عادي فضي",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "shirt_casual_gold_item_643",
+      "name": "قميص عادي ذهبي",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "shirt_casual_cream_item_644",
+      "name": "قميص عادي كريمي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "shirt_casual_teal_item_645",
+      "name": "قميص عادي فيروزي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_casual_navy_item_646",
+      "name": "قميص عادي بحري",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_casual_khaki_item_647",
+      "name": "قميص عادي كاكي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "shirt_casual_graphite_item_648",
+      "name": "قميص عادي جرافيت",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "shirt_casual_honey_item_649",
+      "name": "قميص عادي عسلي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "blouse_black_item_650",
+      "name": "بلوزة أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "blouse_white_item_651",
+      "name": "بلوزة أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "blouse_red_item_652",
+      "name": "بلوزة أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "blouse_blue_item_653",
+      "name": "بلوزة أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "blouse_green_item_654",
+      "name": "بلوزة أخضر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "blouse_yellow_item_655",
+      "name": "بلوزة أصفر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "blouse_orange_item_656",
+      "name": "بلوزة برتقالي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "blouse_purple_item_657",
+      "name": "بلوزة بنفسجي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "blouse_pink_item_658",
+      "name": "بلوزة وردي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "blouse_brown_item_659",
+      "name": "بلوزة بني",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "blouse_gray_item_660",
+      "name": "بلوزة رمادي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "blouse_silver_item_661",
+      "name": "بلوزة فضي",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "blouse_gold_item_662",
+      "name": "بلوزة ذهبي",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "blouse_cream_item_663",
+      "name": "بلوزة كريمي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "blouse_teal_item_664",
+      "name": "بلوزة فيروزي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "blouse_navy_item_665",
+      "name": "بلوزة بحري",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "blouse_khaki_item_666",
+      "name": "بلوزة كاكي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "blouse_graphite_item_667",
+      "name": "بلوزة جرافيت",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "blouse_honey_item_668",
+      "name": "بلوزة عسلي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "tank_black_item_669",
+      "name": "تانك أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tank_white_item_670",
+      "name": "تانك أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tank_red_item_671",
+      "name": "تانك أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tank_blue_item_672",
+      "name": "تانك أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tank_green_item_673",
+      "name": "تانك أخضر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tank_yellow_item_674",
+      "name": "تانك أصفر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tank_orange_item_675",
+      "name": "تانك برتقالي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tank_purple_item_676",
+      "name": "تانك بنفسجي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tank_pink_item_677",
+      "name": "تانك وردي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tank_brown_item_678",
+      "name": "تانك بني",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tank_gray_item_679",
+      "name": "تانك رمادي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tank_silver_item_680",
+      "name": "تانك فضي",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "tank_gold_item_681",
+      "name": "تانك ذهبي",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "tank_cream_item_682",
+      "name": "تانك كريمي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "tank_teal_item_683",
+      "name": "تانك فيروزي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tank_navy_item_684",
+      "name": "تانك بحري",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tank_khaki_item_685",
+      "name": "تانك كاكي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tank_graphite_item_686",
+      "name": "تانك جرافيت",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "tank_honey_item_687",
+      "name": "تانك عسلي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "crop_black_item_688",
+      "name": "كروب أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "crop_white_item_689",
+      "name": "كروب أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "crop_red_item_690",
+      "name": "كروب أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "crop_blue_item_691",
+      "name": "كروب أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "crop_green_item_692",
+      "name": "كروب أخضر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "crop_yellow_item_693",
+      "name": "كروب أصفر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "crop_orange_item_694",
+      "name": "كروب برتقالي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "crop_purple_item_695",
+      "name": "كروب بنفسجي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "crop_pink_item_696",
+      "name": "كروب وردي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "crop_brown_item_697",
+      "name": "كروب بني",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "crop_gray_item_698",
+      "name": "كروب رمادي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "crop_silver_item_699",
+      "name": "كروب فضي",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "crop_gold_item_700",
+      "name": "كروب ذهبي",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "crop_cream_item_701",
+      "name": "كروب كريمي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "crop_teal_item_702",
+      "name": "كروب فيروزي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "crop_navy_item_703",
+      "name": "كروب بحري",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "crop_khaki_item_704",
+      "name": "كروب كاكي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "crop_graphite_item_705",
+      "name": "كروب جرافيت",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "crop_honey_item_706",
+      "name": "كروب عسلي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "tshirt_long_black_item_707",
+      "name": "تيشيرت طويل أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tshirt_long_white_item_708",
+      "name": "تيشيرت طويل أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tshirt_long_red_item_709",
+      "name": "تيشيرت طويل أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tshirt_long_blue_item_710",
+      "name": "تيشيرت طويل أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tshirt_long_green_item_711",
+      "name": "تيشيرت طويل أخضر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tshirt_long_yellow_item_712",
+      "name": "تيشيرت طويل أصفر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tshirt_long_orange_item_713",
+      "name": "تيشيرت طويل برتقالي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tshirt_long_purple_item_714",
+      "name": "تيشيرت طويل بنفسجي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tshirt_long_pink_item_715",
+      "name": "تيشيرت طويل وردي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tshirt_long_brown_item_716",
+      "name": "تيشيرت طويل بني",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tshirt_long_gray_item_717",
+      "name": "تيشيرت طويل رمادي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tshirt_long_silver_item_718",
+      "name": "تيشيرت طويل فضي",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "tshirt_long_gold_item_719",
+      "name": "تيشيرت طويل ذهبي",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "tshirt_long_cream_item_720",
+      "name": "تيشيرت طويل كريمي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "tshirt_long_teal_item_721",
+      "name": "تيشيرت طويل فيروزي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tshirt_long_navy_item_722",
+      "name": "تيشيرت طويل بحري",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tshirt_long_khaki_item_723",
+      "name": "تيشيرت طويل كاكي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "tshirt_long_graphite_item_724",
+      "name": "تيشيرت طويل جرافيت",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "tshirt_long_honey_item_725",
+      "name": "تيشيرت طويل عسلي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "sweatshirt_black_item_726",
+      "name": "سترة أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_white_item_727",
+      "name": "سترة أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_red_item_728",
+      "name": "سترة أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_blue_item_729",
+      "name": "سترة أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_green_item_730",
+      "name": "سترة أخضر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_yellow_item_731",
+      "name": "سترة أصفر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_orange_item_732",
+      "name": "سترة برتقالي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_purple_item_733",
+      "name": "سترة بنفسجي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_pink_item_734",
+      "name": "سترة وردي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_brown_item_735",
+      "name": "سترة بني",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_gray_item_736",
+      "name": "سترة رمادي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_silver_item_737",
+      "name": "سترة فضي",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "sweatshirt_gold_item_738",
+      "name": "سترة ذهبي",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "sweatshirt_cream_item_739",
+      "name": "سترة كريمي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "sweatshirt_teal_item_740",
+      "name": "سترة فيروزي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_navy_item_741",
+      "name": "سترة بحري",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_khaki_item_742",
+      "name": "سترة كاكي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "sweatshirt_graphite_item_743",
+      "name": "سترة جرافيت",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "sweatshirt_honey_item_744",
+      "name": "سترة عسلي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "cardigan_black_item_745",
+      "name": "كارديجان أسود",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_white_item_746",
+      "name": "كارديجان أبيض",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_red_item_747",
+      "name": "كارديجان أحمر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_blue_item_748",
+      "name": "كارديجان أزرق",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_green_item_749",
+      "name": "كارديجان أخضر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_yellow_item_750",
+      "name": "كارديجان أصفر",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_orange_item_751",
+      "name": "كارديجان برتقالي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_purple_item_752",
+      "name": "كارديجان بنفسجي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_pink_item_753",
+      "name": "كارديجان وردي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_brown_item_754",
+      "name": "كارديجان بني",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_gray_item_755",
+      "name": "كارديجان رمادي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_silver_item_756",
+      "name": "كارديجان فضي",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "cardigan_gold_item_757",
+      "name": "كارديجان ذهبي",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "cardigan_cream_item_758",
+      "name": "كارديجان كريمي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "cardigan_teal_item_759",
+      "name": "كارديجان فيروزي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_navy_item_760",
+      "name": "كارديجان بحري",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_khaki_item_761",
+      "name": "كارديجان كاكي",
+      "category": "top",
+      "rarity": "common"
+    },
+    {
+      "id": "cardigan_graphite_item_762",
+      "name": "كارديجان جرافيت",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "cardigan_honey_item_763",
+      "name": "كارديجان عسلي",
+      "category": "top",
+      "rarity": "rare"
+    },
+    {
+      "id": "jeans_black_item_764",
+      "name": "بنطال جينز أسود",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "jeans_white_item_765",
+      "name": "بنطال جينز أبيض",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "jeans_red_item_766",
+      "name": "بنطال جينز أحمر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "jeans_blue_item_767",
+      "name": "بنطال جينز أزرق",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "jeans_green_item_768",
+      "name": "بنطال جينز أخضر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "jeans_yellow_item_769",
+      "name": "بنطال جينز أصفر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "jeans_orange_item_770",
+      "name": "بنطال جينز برتقالي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "jeans_purple_item_771",
+      "name": "بنطال جينز بنفسجي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "jeans_pink_item_772",
+      "name": "بنطال جينز وردي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "jeans_brown_item_773",
+      "name": "بنطال جينز بني",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "jeans_gray_item_774",
+      "name": "بنطال جينز رمادي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "jeans_silver_item_775",
+      "name": "بنطال جينز فضي",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "jeans_gold_item_776",
+      "name": "بنطال جينز ذهبي",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "jeans_cream_item_777",
+      "name": "بنطال جينز كريمي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "jeans_teal_item_778",
+      "name": "بنطال جينز فيروزي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "jeans_navy_item_779",
+      "name": "بنطال جينز بحري",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "jeans_khaki_item_780",
+      "name": "بنطال جينز كاكي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "jeans_graphite_item_781",
+      "name": "بنطال جينز جرافيت",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "jeans_honey_item_782",
+      "name": "بنطال جينز عسلي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "linen_pants_black_item_783",
+      "name": "بنطال كتان أسود",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "linen_pants_white_item_784",
+      "name": "بنطال كتان أبيض",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "linen_pants_red_item_785",
+      "name": "بنطال كتان أحمر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "linen_pants_blue_item_786",
+      "name": "بنطال كتان أزرق",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "linen_pants_green_item_787",
+      "name": "بنطال كتان أخضر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "linen_pants_yellow_item_788",
+      "name": "بنطال كتان أصفر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "linen_pants_orange_item_789",
+      "name": "بنطال كتان برتقالي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "linen_pants_purple_item_790",
+      "name": "بنطال كتان بنفسجي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "linen_pants_pink_item_791",
+      "name": "بنطال كتان وردي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "linen_pants_brown_item_792",
+      "name": "بنطال كتان بني",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "linen_pants_gray_item_793",
+      "name": "بنطال كتان رمادي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "linen_pants_silver_item_794",
+      "name": "بنطال كتان فضي",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "linen_pants_gold_item_795",
+      "name": "بنطال كتان ذهبي",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "linen_pants_cream_item_796",
+      "name": "بنطال كتان كريمي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "linen_pants_teal_item_797",
+      "name": "بنطال كتان فيروزي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "linen_pants_navy_item_798",
+      "name": "بنطال كتان بحري",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "linen_pants_khaki_item_799",
+      "name": "بنطال كتان كاكي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "linen_pants_graphite_item_800",
+      "name": "بنطال كتان جرافيت",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "linen_pants_honey_item_801",
+      "name": "بنطال كتان عسلي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "prayer_pants_black_item_802",
+      "name": "بنطال صلاة أسود",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "prayer_pants_white_item_803",
+      "name": "بنطال صلاة أبيض",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "prayer_pants_red_item_804",
+      "name": "بنطال صلاة أحمر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "prayer_pants_blue_item_805",
+      "name": "بنطال صلاة أزرق",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "prayer_pants_green_item_806",
+      "name": "بنطال صلاة أخضر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "prayer_pants_yellow_item_807",
+      "name": "بنطال صلاة أصفر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "prayer_pants_orange_item_808",
+      "name": "بنطال صلاة برتقالي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "prayer_pants_purple_item_809",
+      "name": "بنطال صلاة بنفسجي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "prayer_pants_pink_item_810",
+      "name": "بنطال صلاة وردي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "prayer_pants_brown_item_811",
+      "name": "بنطال صلاة بني",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "prayer_pants_gray_item_812",
+      "name": "بنطال صلاة رمادي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "prayer_pants_silver_item_813",
+      "name": "بنطال صلاة فضي",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "prayer_pants_gold_item_814",
+      "name": "بنطال صلاة ذهبي",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "prayer_pants_cream_item_815",
+      "name": "بنطال صلاة كريمي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "prayer_pants_teal_item_816",
+      "name": "بنطال صلاة فيروزي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "prayer_pants_navy_item_817",
+      "name": "بنطال صلاة بحري",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "prayer_pants_khaki_item_818",
+      "name": "بنطال صلاة كاكي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "prayer_pants_graphite_item_819",
+      "name": "بنطال صلاة جرافيت",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "prayer_pants_honey_item_820",
+      "name": "بنطال صلاة عسلي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "mini_skirt_black_item_821",
+      "name": "تنورة مصغرة أسود",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "mini_skirt_white_item_822",
+      "name": "تنورة مصغرة أبيض",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "mini_skirt_red_item_823",
+      "name": "تنورة مصغرة أحمر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "mini_skirt_blue_item_824",
+      "name": "تنورة مصغرة أزرق",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "mini_skirt_green_item_825",
+      "name": "تنورة مصغرة أخضر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "mini_skirt_yellow_item_826",
+      "name": "تنورة مصغرة أصفر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "mini_skirt_orange_item_827",
+      "name": "تنورة مصغرة برتقالي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "mini_skirt_purple_item_828",
+      "name": "تنورة مصغرة بنفسجي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "mini_skirt_pink_item_829",
+      "name": "تنورة مصغرة وردي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "mini_skirt_brown_item_830",
+      "name": "تنورة مصغرة بني",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "mini_skirt_gray_item_831",
+      "name": "تنورة مصغرة رمادي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "mini_skirt_silver_item_832",
+      "name": "تنورة مصغرة فضي",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "mini_skirt_gold_item_833",
+      "name": "تنورة مصغرة ذهبي",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "mini_skirt_cream_item_834",
+      "name": "تنورة مصغرة كريمي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "mini_skirt_teal_item_835",
+      "name": "تنورة مصغرة فيروزي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "mini_skirt_navy_item_836",
+      "name": "تنورة مصغرة بحري",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "mini_skirt_khaki_item_837",
+      "name": "تنورة مصغرة كاكي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "mini_skirt_graphite_item_838",
+      "name": "تنورة مصغرة جرافيت",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "mini_skirt_honey_item_839",
+      "name": "تنورة مصغرة عسلي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "ultra_short_skirt_black_item_840",
+      "name": "تنورة قصيرة جداً أسود",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "ultra_short_skirt_white_item_841",
+      "name": "تنورة قصيرة جداً أبيض",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "ultra_short_skirt_red_item_842",
+      "name": "تنورة قصيرة جداً أحمر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "ultra_short_skirt_blue_item_843",
+      "name": "تنورة قصيرة جداً أزرق",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "ultra_short_skirt_green_item_844",
+      "name": "تنورة قصيرة جداً أخضر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "ultra_short_skirt_yellow_item_845",
+      "name": "تنورة قصيرة جداً أصفر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "ultra_short_skirt_orange_item_846",
+      "name": "تنورة قصيرة جداً برتقالي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "ultra_short_skirt_purple_item_847",
+      "name": "تنورة قصيرة جداً بنفسجي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "ultra_short_skirt_pink_item_848",
+      "name": "تنورة قصيرة جداً وردي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "ultra_short_skirt_brown_item_849",
+      "name": "تنورة قصيرة جداً بني",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "ultra_short_skirt_gray_item_850",
+      "name": "تنورة قصيرة جداً رمادي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "ultra_short_skirt_silver_item_851",
+      "name": "تنورة قصيرة جداً فضي",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "ultra_short_skirt_gold_item_852",
+      "name": "تنورة قصيرة جداً ذهبي",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "ultra_short_skirt_cream_item_853",
+      "name": "تنورة قصيرة جداً كريمي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "ultra_short_skirt_teal_item_854",
+      "name": "تنورة قصيرة جداً فيروزي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "ultra_short_skirt_navy_item_855",
+      "name": "تنورة قصيرة جداً بحري",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "ultra_short_skirt_khaki_item_856",
+      "name": "تنورة قصيرة جداً كاكي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "ultra_short_skirt_graphite_item_857",
+      "name": "تنورة قصيرة جداً جرافيت",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "ultra_short_skirt_honey_item_858",
+      "name": "تنورة قصيرة جداً عسلي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "casual_dress_black_item_859",
+      "name": "فستان يومي أسود",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "casual_dress_white_item_860",
+      "name": "فستان يومي أبيض",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "casual_dress_red_item_861",
+      "name": "فستان يومي أحمر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "casual_dress_blue_item_862",
+      "name": "فستان يومي أزرق",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "casual_dress_green_item_863",
+      "name": "فستان يومي أخضر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "casual_dress_yellow_item_864",
+      "name": "فستان يومي أصفر",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "casual_dress_orange_item_865",
+      "name": "فستان يومي برتقالي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "casual_dress_purple_item_866",
+      "name": "فستان يومي بنفسجي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "casual_dress_pink_item_867",
+      "name": "فستان يومي وردي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "casual_dress_brown_item_868",
+      "name": "فستان يومي بني",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "casual_dress_gray_item_869",
+      "name": "فستان يومي رمادي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "casual_dress_silver_item_870",
+      "name": "فستان يومي فضي",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "casual_dress_gold_item_871",
+      "name": "فستان يومي ذهبي",
+      "category": "bottom",
+      "rarity": "epic"
+    },
+    {
+      "id": "casual_dress_cream_item_872",
+      "name": "فستان يومي كريمي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "casual_dress_teal_item_873",
+      "name": "فستان يومي فيروزي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "casual_dress_navy_item_874",
+      "name": "فستان يومي بحري",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "casual_dress_khaki_item_875",
+      "name": "فستان يومي كاكي",
+      "category": "bottom",
+      "rarity": "common"
+    },
+    {
+      "id": "casual_dress_graphite_item_876",
+      "name": "فستان يومي جرافيت",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "casual_dress_honey_item_877",
+      "name": "فستان يومي عسلي",
+      "category": "bottom",
+      "rarity": "rare"
+    },
+    {
+      "id": "luxury_0_item_878",
+      "name": "تاج ماسي عملاق",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_1_item_879",
+      "name": "سوار ماسي ضخم",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_2_item_880",
+      "name": "خاتم ملكي",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_3_item_881",
+      "name": "قلادة إمبراطورية",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_4_item_882",
+      "name": "تيارا من ياقوت",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_5_item_883",
+      "name": "تيارا من زمرد",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_6_item_884",
+      "name": "حزام من ذهب خالص",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_7_item_885",
+      "name": "شال حرير فاخر",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_8_item_886",
+      "name": "قفازات دانتيل أسود",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_9_item_887",
+      "name": "قفازات دانتيل أبيض",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_10_item_888",
+      "name": "جوارب فاخرة",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_11_item_889",
+      "name": "جوارب حرير",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_12_item_890",
+      "name": "حقيبة من جلد التمساح",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_13_item_891",
+      "name": "حقيبة من جلد الثعبان",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_14_item_892",
+      "name": "حقيبة من جلد التمساح الذهبي",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_15_item_893",
+      "name": "حذاء أحمر فاخر",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_16_item_894",
+      "name": "حذاء أزرق فاخر",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_17_item_895",
+      "name": "حذاء أخضر فاخر",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_18_item_896",
+      "name": "معطف فرو أسود",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_19_item_897",
+      "name": "معطف فرو بني",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_20_item_898",
+      "name": "معطف فرو أبيض",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_21_item_899",
+      "name": "وشاح من حرير خالص",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_22_item_900",
+      "name": "وشاح ذهبي",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "luxury_23_item_901",
+      "name": "وشاح فضي",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "mythical_phoenix_wings_item_978",
+      "name": "أجنحة فينيكس",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "mythical_dragon_scales_item_979",
+      "name": "قشور تنين",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "mythical_angel_halo_item_980",
+      "name": "هالة الملاك",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "mythical_demon_horns_item_981",
+      "name": "قرون الشيطان",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "mythical_fairy_wings_item_982",
+      "name": "أجنحة جنية",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "mythical_mermaid_tail_item_983",
+      "name": "ذيل حورية بحر",
+      "category": "bottom",
+      "rarity": "legendary"
+    },
+    {
+      "id": "mythical_vampire_cape_item_984",
+      "name": "عباءة مصاص دماء",
+      "category": "top",
+      "rarity": "epic"
+    },
+    {
+      "id": "mythical_werewolf_fur_item_985",
+      "name": "فرو ذئب بشري",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "mythical_witch_hat_item_986",
+      "name": "قبعة ساحرة سحرية",
+      "category": "hat",
+      "rarity": "epic"
+    },
+    {
+      "id": "mythical_wizard_staff_item_987",
+      "name": "عصا ساحر",
+      "category": "accessories",
+      "rarity": "epic"
+    },
+    {
+      "id": "mythical_dark_aura_item_988",
+      "name": "هالة مظلمة",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "mythical_light_aura_item_989",
+      "name": "هالة مضيئة",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "cosmic_stardust_item_990",
+      "name": "غبار النجوم",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "cosmic_galaxy_cloak_item_991",
+      "name": "عباءة المجرة",
+      "category": "top",
+      "rarity": "legendary"
+    },
+    {
+      "id": "cosmic_nebula_dress_item_992",
+      "name": "فستان السديم",
+      "category": "bottom",
+      "rarity": "legendary"
+    },
+    {
+      "id": "cosmic_lunar_crown_item_993",
+      "name": "تاج القمر",
+      "category": "hat",
+      "rarity": "legendary"
+    },
+    {
+      "id": "cosmic_solar_crown_item_994",
+      "name": "تاج الشمس",
+      "category": "hat",
+      "rarity": "legendary"
+    },
+    {
+      "id": "divine_god_robe_item_995",
+      "name": "رداء الآلهة",
+      "category": "top",
+      "rarity": "legendary"
+    },
+    {
+      "id": "divine_godess_dress_item_996",
+      "name": "فستان الإلهة",
+      "category": "bottom",
+      "rarity": "legendary"
+    },
+    {
+      "id": "divine_halo_crown_item_997",
+      "name": "تاج إلهي",
+      "category": "hat",
+      "rarity": "legendary"
+    },
+    {
+      "id": "ultimate_infinity_stone_item_998",
+      "name": "حجر اللانهاية",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "ultimate_crystal_heart_item_999",
+      "name": "قلب كريستالي",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "ultimate_eternal_flame_item_1000",
+      "name": "النار الأبدية",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "ultimate_void_essence_item_1001",
+      "name": "جوهر الفراغ",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "ultimate_time_essence_item_1002",
+      "name": "جوهر الزمن",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "ultimate_space_essence_item_1003",
+      "name": "جوهر الفضاء",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "ultimate_soul_essence_item_1004",
+      "name": "جوهر الروح",
+      "category": "accessories",
+      "rarity": "legendary"
+    },
+    {
+      "id": "ultimate_light_essence_item_1005",
+      "name": "جوهر النور",
+      "category": "accessories",
+      "rarity": "legendary"
+    }
+  ],
+  "total_items": 1005,
+  "note": "قاعدة بيانات ملابس شاملة بأكثر من 500 آيتم مع فئات متنوعة"
+}

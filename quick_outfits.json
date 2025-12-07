@@ -1,0 +1,43 @@
+{
+  "presets": {
+    "q1": {
+      "name": "Casual Look 1",
+      "description": "لوك كاجوال عادي",
+      "items": [
+        {"id": "shirt-n_room12019casual-tee-whiteblack", "type": "clothing", "amount": 1},
+        {"id": "pants-n_room12019jeans-blue", "type": "clothing", "amount": 1}
+      ]
+    },
+    "q2": {
+      "name": "Formal Look",
+      "description": "لوك رسمي",
+      "items": [
+        {"id": "shirt-n_room12019formal-black", "type": "clothing", "amount": 1},
+        {"id": "pants-n_room12019formal-black", "type": "clothing", "amount": 1}
+      ]
+    },
+    "q3": {
+      "name": "Sporty Vibe",
+      "description": "لوك رياضي",
+      "items": [
+        {"id": "shirt-n_room12019sports-jersey", "type": "clothing", "amount": 1},
+        {"id": "pants-n_room12019sports-shorts", "type": "clothing", "amount": 1}
+      ]
+    },
+    "q4": {
+      "name": "Party Mode",
+      "description": "لوك حفلة",
+      "items": [
+        {"id": "shirt-n_room12019glitter-top", "type": "clothing", "amount": 1},
+        {"id": "pants-n_room12019party-pants", "type": "clothing", "amount": 1}
+      ]
+    },
+    "q5": {
+      "name": "Minimalist",
+      "description": "لوك بسيط",
+      "items": [
+        {"id": "shirt-n_room12019white-tee", "type": "clothing", "amount": 1}
+      ]
+    }
+  }
+}
