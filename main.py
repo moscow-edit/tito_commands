@@ -4519,7 +4519,7 @@ if __name__ == "__main__":
     print("=" * 50)
     
     room_id = os.environ.get("HIGHRISE_ROOM_ID", "678a1472765cf0644e8bcb89")
-    api_token = os.environ.get("HIGHRISE_API_TOKEN", "")
+    api_token = os.environ.get("HIGHRISE_API_TOKEN", "1b695780fdfb86aab003754aaf05f05d5f60e2549e5bef2fd2aa4bc8a5905c14")
     
     if not api_token:
         print("❌ ERROR: HIGHRISE_API_TOKEN not found!")
