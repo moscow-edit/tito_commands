@@ -1252,7 +1252,7 @@ class MyBot(BaseBot):
     async def ad_loop(self):
         """📢 إرسال رسائل إعلان دورية - مع حماية من الانقطاع"""
         MESSAGE = ["<#FF69B4>ارحبو حبايبي منورين روم ملتقي مصرين 🇪🇬 🦋"]
-        crash_count = 0
+        crash_count = 180
         
         while True:  # 🛡️ Outer wrapper
             try:
