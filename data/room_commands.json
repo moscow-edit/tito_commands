@@ -1,0 +1,62 @@
+{
+  "فوق": {
+    "enabled": true,
+    "position": {
+      "x": 12.5,
+      "y": 15.0,
+      "z": 20.0,
+      "facing": "FrontLeft"
+    },
+    "admin_only": false
+  },
+  "نص": {
+    "enabled": true,
+    "position": {
+      "x": 15.5,
+      "y": 5.0,
+      "z": 1.5,
+      "facing": "FrontRight"
+    },
+    "admin_only": false
+  },
+  "تحت": {
+    "enabled": true,
+    "position": {
+      "x": 11.5,
+      "y": 0.5,
+      "z": 13.5,
+      "facing": "FrontRight"
+    },
+    "admin_only": false
+  },
+  "vr": {
+    "enabled": true,
+    "position": {
+      "x": 15.5,
+      "y": 15.5,
+      "z": 2.5,
+      "facing": "FrontRight"
+    },
+    "admin_only": false
+  },
+  "وسط": {
+    "enabled": true,
+    "position": {
+      "x": 14.5,
+      "y": 7.25,
+      "z": 17.5,
+      "facing": "FrontLeft"
+    },
+    "admin_only": false
+  },
+  "dj": {
+    "enabled": true,
+    "position": {
+      "x": 7.0,
+      "y": 0.25,
+      "z": 18.5,
+      "facing": "FrontRight"
+    },
+    "admin_only": false
+  }
+}

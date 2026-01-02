@@ -1,0 +1,69 @@
+{
+  "outfit": [
+    {
+      "id": "hair_front-n_malenew05",
+      "type": "clothing",
+      "amount": 1
+    },
+    {
+      "id": "hair_back-n_malenew05",
+      "type": "clothing",
+      "amount": 1
+    },
+    {
+      "id": "body-flesh",
+      "type": "clothing",
+      "amount": 1
+    },
+    {
+      "id": "eye-n_basic2018malesquaresleepy",
+      "type": "clothing",
+      "amount": 1
+    },
+    {
+      "id": "eyebrow-n_basic2018newbrows07",
+      "type": "clothing",
+      "amount": 1
+    },
+    {
+      "id": "nose-n_basic2018newnose05",
+      "type": "clothing",
+      "amount": 1
+    },
+    {
+      "id": "mouth-basic2018chippermouth",
+      "type": "clothing",
+      "amount": 1
+    },
+    {
+      "id": "freckle-n_basic2018freckle04",
+      "type": "clothing",
+      "amount": 1
+    },
+    {
+      "id": "shirt-n_room32019denimjackethoodie",
+      "type": "clothing",
+      "amount": 1
+    },
+    {
+      "id": "pants-n_starteritems2019cuffedjeanswhite",
+      "type": "clothing",
+      "amount": 1
+    },
+    {
+      "id": "shoes-n_room32019socksneakersgrey",
+      "type": "clothing",
+      "amount": 1
+    },
+    {
+      "id": "hat-n_mummyhat_3",
+      "type": "clothing",
+      "amount": 1
+    },
+    {
+      "id": "bag-n_amethystdailyrewards2020amethystwings",
+      "type": "clothing",
+      "amount": 1
+    }
+  ]
+}

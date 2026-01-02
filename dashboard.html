@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Highrise Bot Dashboard 🤖</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .status-box {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .status-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .status-indicator {
+            width: 15px;
+            height: 15px;
+            border-radius: 50%;
+            background: #4caf50;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 10px;
+            padding: 25px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 12px rgba(0,0,0,0.2);
+        }
+
+        .card h2 {
+            color: #667eea;
+            margin-bottom: 15px;
+            font-size: 1.5em;
+        }
+
+        .btn-group {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .btn {
+            padding: 12px 20px;
+            border: none;
+            border-radius: 8px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #5568d3;
+            transform: scale(1.05);
+        }
+
+        .btn-success {
+            background: #4caf50;
+            color: white;
+        }
+
+        .btn-success:hover {
+            background: #45a049;
+        }
+
+        .btn-info {
+            background: #2196F3;
+            color: white;
+        }
+
+        .btn-info:hover {
+            background: #0b7dda;
+        }
+
+        .btn-warning {
+            background: #ff9800;
+            color: white;
+        }
+
+        .btn-warning:hover {
+            background: #e68900;
+        }
+
+        .input-group {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+
+        .input-group input {
+            flex: 1;
+            padding: 10px;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            font-size: 1em;
+        }
+
+        .input-group button {
+            padding: 10px 20px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        .input-group button:hover {
+            background: #5568d3;
+        }
+
+        .quick-preset {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+        .preset-btn {
+            padding: 10px;
+            background: #f0f0f0;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.3s;
+        }
+
+        .preset-btn:hover {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+
+        .message {
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 15px;
+            display: none;
+            animation: slideIn 0.3s ease;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .message.success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+            display: block;
+        }
+
+        .message.error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+            display: block;
+        }
+
+        .message.info {
+            background: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+            display: block;
+        }
+
+        footer {
+            text-align: center;
+            color: white;
+            margin-top: 40px;
+            padding: 20px;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2em;
+            }
+
+            .grid {
+                grid-template-columns: 1fr;
+            }
+
+            .status-box {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+        }
+
+        .emoji {
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🤖 Highrise Bot Dashboard</h1>
+            <p>التحكم الكامل بالبوت من هنا</p>
+        </header>
+
+        <div class="status-box">
+            <div class="status-item">
+                <div class="status-indicator"></div>
+                <span id="status">🔄 جاري التحميل...</span>
+            </div>
+            <div class="status-item">
+                <span>⏱️ وقت التشغيل: <strong id="uptime">--</strong></span>
+            </div>
+        </div>
+
+        <div class="grid">
+            <!-- أوامر اللبس السريعة -->
+            <div class="card">
+                <h2><span class="emoji">⚡</span> النسخ السريع</h2>
+                <div class="btn-group">
+                    <button class="btn btn-primary" onclick="quickCopy()">
+                        <span class="emoji">👕</span> نسخ لبسك الحالي (c)
+                    </button>
+                </div>
+                <div id="copyMessage" class="message"></div>
+            </div>
+
+            <!-- لبس شخص معين -->
+            <div class="card">
+                <h2><span class="emoji">🎭</span> لبس شخص معين</h2>
+                <div class="input-group">
+                    <input type="text" id="equipUsername" placeholder="اكتب اسم المستخدم">
+                    <button onclick="equipUser()">لبس</button>
+                </div>
+                <div id="equipMessage" class="message"></div>
+            </div>
+
+            <!-- الملابس السريعة -->
+            <div class="card">
+                <h2><span class="emoji">🚀</span> ملابس سريعة</h2>
+                <div class="quick-preset">
+                    <button class="preset-btn" onclick="quickPreset('q1')">q1</button>
+                    <button class="preset-btn" onclick="quickPreset('q2')">q2</button>
+                    <button class="preset-btn" onclick="quickPreset('q3')">q3</button>
+                    <button class="preset-btn" onclick="quickPreset('q4')">q4</button>
+                    <button class="preset-btn" onclick="quickPreset('q5')">q5</button>
+                </div>
+                <small>q1: عادي | q2: رسمي | q3: رياضي | q4: حفلة | q5: بسيط</small>
+                <div id="presetMessage" class="message"></div>
+            </div>
+
+            <!-- حفظ واستعادة -->
+            <div class="card">
+                <h2><span class="emoji">💾</span> حفظ واستعادة</h2>
+                <div class="btn-group">
+                    <button class="btn btn-success" onclick="saveOutfit()">
+                        <span class="emoji">💾</span> حفظ اللبسة الحالية
+                    </button>
+                    <button class="btn btn-info" onclick="loadOutfit()">
+                        <span class="emoji">⚡</span> استعادة اللبسة المحفوظة
+                    </button>
+                </div>
+                <div id="saveLoadMessage" class="message"></div>
+            </div>
+
+
+            <!-- حفظ اللبس المخصص -->
+            <div class="card">
+                <h2><span class="emoji">💾</span> حفظ لبسة باسم</h2>
+                <div class="input-group">
+                    <input type="text" id="outfitName" placeholder="اسم اللبسة (مثلاً: رسمي، حفلة)">
+                    <button onclick="saveNamedOutfit()">حفظ</button>
+                </div>
+                <div id="saveNamedMessage" class="message"></div>
+            </div>
+
+            <!-- قائمة اللبس المحفوظة -->
+            <div class="card" style="grid-column: 1/-1;">
+                <h2><span class="emoji">📋</span> اللبسات المحفوظة</h2>
+                <div id="savedOutfitsList" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-bottom: 15px;">
+                    <!-- سيتم ملؤه بالقائمة -->
+                </div>
+                <div id="savedOutfitsMessage" class="message"></div>
+            </div>
+
+            <!-- محرر الملابس المتقدم -->
+            <div class="card" style="grid-column: 1/-1;">
+                <h2><span class="emoji">🎨</span> محرر الملابس المخصص</h2>
+                <div id="outfitEditor" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-bottom: 20px;">
+                    <!-- سيتم ملؤه بالعناصر -->
+                </div>
+                <button class="btn btn-success" onclick="applyCustomOutfit()" style="width: 100%;">
+                    <span class="emoji">✨</span> تطبيق اللبسة المخصصة
+                </button>
+                <div id="customOutfitMessage" class="message"></div>
+            </div>
+
+            <!-- أوامر البوت -->
+            <div class="card" style="grid-column: 1/-1;">
+                <h2><span class="emoji">⚙️</span> أوامر البوت المباشرة</h2>
+                <div class="input-group">
+                    <input type="text" id="commandInput" placeholder="اكتب أمر (مثلاً: dance, stop, teleport)">
+                    <button onclick="sendCommand()">إرسال</button>
+                </div>
+                <small>أمثلة: <strong>dance dance-floss</strong> | <strong>stop</strong> | <strong>teleport نص</strong> | <strong>تحت</strong></small>
+                <div id="commandMessage" class="message"></div>
+            </div>
+
+            <!-- عرض اللبس -->
+            <div class="card">
+                <h2><span class="emoji">👀</span> عرض لبس</h2>
+                <div class="input-group">
+                    <input type="text" id="viewOutfitUsername" placeholder="اسم المستخدم">
+                    <button onclick="viewOutfit()">عرض</button>
+                </div>
+                <div id="outfitInfo" class="message"></div>
+            </div>
+
+            <!-- المعلومات -->
+            <div class="card">
+                <h2><span class="emoji">ℹ️</span> معلومات</h2>
+                <div class="btn-group">
+                    <button class="btn btn-info" onclick="getStatus()">
+                        <span class="emoji">🔍</span> حالة البوت
+                    </button>
+                    <button class="btn btn-info" onclick="getCommands()">
+                        <span class="emoji">📋</span> قائمة الأوامر
+                    </button>
+                </div>
+                <div id="infoMessage" class="message" style="white-space: pre-wrap; max-height: 200px; overflow-y: auto;"></div>
+            </div>
+        </div>
+
+        <footer>
+            <p>🎮 Highrise Bot API Dashboard | جميع الأوامر متاحة الآن!</p>
+        </footer>
+    </div>
+
+    <script>
+        const API_URL = window.location.origin;
+        
+        // قاموس العناصر المتاحة
+        const outfitItems = {
+            'body': { name: 'الجسم', id: 'body-flesh', palette: 27 },
+            'eyes': { name: 'العيون', id: 'eyes-n_virgo2019virgoamythesteyes', palette: 7 },
+            'eyebrow': { name: 'الحواجب', id: 'eyebrow-n_06', palette: 0 },
+            'nose': { name: 'الأنف', id: 'nose-n_01', palette: 0 },
+            'mouth': { name: 'الفم', id: 'mouth-n_amethystdailyrewards2020chainmouth', palette: -1 },
+            'hair_front': { name: 'الشعر', id: 'hair_front-n_malenew23', palette: -1 },
+            'shirt': { name: 'القميص', id: 'shirt-m_suit_black', palette: -1 },
+            'pants': { name: 'البنطلون', id: 'pants-n_starteritems2019cuffedjeansblack', palette: -1 },
+            'shoes': { name: 'الأحذية', id: 'shoes-n_room12019bootsblack', palette: -1 },
+            'bag': { name: 'الحقيبة', id: 'bag-n_amethystdailyrewards2020amethystwings', palette: -1 },
+            'earrings': { name: 'الأقراط', id: 'earrings-n_amethystdailyrewards2020amethystearrings', palette: -1 }
+        };
+        
+        const selectedItems = {};
+
+        function initializeOutfitEditor() {
+            const editor = document.getElementById('outfitEditor');
+            editor.innerHTML = '';
+            
+            for (const [key, item] of Object.entries(outfitItems)) {
+                const div = document.createElement('div');
+                div.style.padding = '15px';
+                div.style.background = '#f5f5f5';
+                div.style.borderRadius = '8px';
+                div.style.border = '2px solid #ddd';
+                div.style.cursor = 'pointer';
+                div.style.transition = 'all 0.3s';
+                div.id = `outfit-${key}`;
+                
+                div.innerHTML = `
+                    <div style="font-weight: bold; margin-bottom: 8px; color: #333;">
+                        ☑️ ${item.name}
+                    </div>
+                    <input type="text" placeholder="معرف العنصر" value="${item.id}" 
+                           style="width: 100%; padding: 8px; margin-bottom: 8px; border: 1px solid #ccc; border-radius: 4px;"
+                           onchange="updateItemId('${key}', this.value)">
+                    <input type="number" placeholder="اللون" value="${item.palette}" min="-1" max="100"
+                           style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"
+                           onchange="updateItemPalette('${key}', this.value)">
+                `;
+                
+                div.onclick = () => toggleItem(key, div);
+                editor.appendChild(div);
+                selectedItems[key] = { id: item.id, palette: item.palette };
+            }
+        }
+        
+        function toggleItem(key, element) {
+            if (element.style.borderColor === 'rgb(76, 175, 80)') {
+                element.style.borderColor = '#ddd';
+                element.style.background = '#f5f5f5';
+                delete selectedItems[key];
+            } else {
+                element.style.borderColor = '#4caf50';
+                element.style.background = '#e8f5e9';
+                selectedItems[key] = {
+                    id: outfitItems[key].id,
+                    palette: outfitItems[key].palette
+                };
+            }
+        }
+        
+        function updateItemId(key, value) {
+            selectedItems[key] = selectedItems[key] || outfitItems[key];
+            selectedItems[key].id = value;
+        }
+        
+        function updateItemPalette(key, value) {
+            selectedItems[key] = selectedItems[key] || outfitItems[key];
+            selectedItems[key].palette = parseInt(value);
+        }
+        
+        async function applyCustomOutfit() {
+            const items = Object.values(selectedItems).map(item => ({
+                type: 'clothing',
+                id: item.id,
+                palette: item.palette
+            }));
+            
+            if (items.length === 0) {
+                showMessage('customOutfitMessage', '❌ اختر عناصر على الأقل', 'error');
+                return;
+            }
+            
+            try {
+                const response = await fetch(`${API_URL}/api/outfit/custom`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ items: items })
+                });
+                const data = await response.json();
+                showMessage('customOutfitMessage', `✨ تم تطبيق اللبسة! (${items.length} عنصر)`, 'success');
+            } catch (error) {
+                showMessage('customOutfitMessage', '❌ خطأ: ' + error.message, 'error');
+            }
+        }
+
+        function showMessage(elementId, message, type = 'info') {
+            const element = document.getElementById(elementId);
+            element.textContent = message;
+            element.className = `message ${type}`;
+            setTimeout(() => {
+                element.className = 'message';
+            }, 5000);
+        }
+
+        // نسخ سريع
+        async function quickCopy() {
+            try {
+                const response = await fetch(`${API_URL}/api/outfit/copy`, { method: 'POST' });
+                const data = await response.json();
+                showMessage('copyMessage', '⚡ تم نسخ لبسك الحالي! البوت سيرتدي الآن', 'success');
+            } catch (error) {
+                showMessage('copyMessage', '❌ حدث خطأ: ' + error.message, 'error');
+            }
+        }
+
+        // لبس شخص
+        async function equipUser() {
+            const username = document.getElementById('equipUsername').value.trim();
+            if (!username) {
+                showMessage('equipMessage', '❌ اكتب اسم المستخدم أولاً', 'error');
+                return;
+            }
+            try {
+                const response = await fetch(`${API_URL}/api/outfit/equip`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ username: username })
+                });
+                const data = await response.json();
+                showMessage('equipMessage', `🎭 تم إرسال أمر لبس @${username}!`, 'success');
+                document.getElementById('equipUsername').value = '';
+            } catch (error) {
+                showMessage('equipMessage', '❌ حدث خطأ: ' + error.message, 'error');
+            }
+        }
+
+        // لبس سريعة
+        async function quickPreset(preset) {
+            try {
+                const response = await fetch(`${API_URL}/api/outfit/quick`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ preset: preset })
+                });
+                const data = await response.json();
+                showMessage('presetMessage', `⚡ تم إرسال لبسة ${preset}!`, 'success');
+            } catch (error) {
+                showMessage('presetMessage', '❌ حدث خطأ: ' + error.message, 'error');
+            }
+        }
+
+        // حفظ
+        async function saveOutfit() {
+            try {
+                const response = await fetch(`${API_URL}/api/outfit/save`, { method: 'POST' });
+                const data = await response.json();
+                showMessage('saveLoadMessage', '💾 تم حفظ اللبسة!', 'success');
+            } catch (error) {
+                showMessage('saveLoadMessage', '❌ حدث خطأ: ' + error.message, 'error');
+            }
+        }
+
+        // استعادة
+        async function loadOutfit() {
+            try {
+                const response = await fetch(`${API_URL}/api/outfit/load`, { method: 'POST' });
+                const data = await response.json();
+                showMessage('saveLoadMessage', '⚡ تم استعادة اللبسة!', 'success');
+            } catch (error) {
+                showMessage('saveLoadMessage', '❌ حدث خطأ: ' + error.message, 'error');
+            }
+        }
+
+        // رقصة
+        async function startDance() {
+            const dance = document.getElementById('danceInput').value.trim() || 'random';
+            try {
+                const response = await fetch(`${API_URL}/api/dance/start`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ dance: dance })
+                });
+                const data = await response.json();
+                showMessage('danceMessage', `🕺 تم بدء رقصة ${dance}!`, 'success');
+            } catch (error) {
+                showMessage('danceMessage', '❌ حدث خطأ: ' + error.message, 'error');
+            }
+        }
+
+        // إيقاف رقصة
+        async function stopDance() {
+            try {
+                const response = await fetch(`${API_URL}/api/dance/stop`, { method: 'POST' });
+                const data = await response.json();
+                showMessage('danceMessage', '⏹️ تم إيقاف الرقصات!', 'success');
+            } catch (error) {
+                showMessage('danceMessage', '❌ حدث خطأ: ' + error.message, 'error');
+            }
+        }
+
+        // عرض لبس
+        async function viewOutfit() {
+            const username = document.getElementById('viewOutfitUsername').value.trim();
+            if (!username) {
+                showMessage('outfitInfo', '❌ اكتب اسم المستخدم أولاً', 'error');
+                return;
+            }
+            showMessage('outfitInfo', `عرض لبس @${username} في الروم\nاكتب: outfit @${username}`, 'info');
+        }
+
+        // حالة البوت
+        async function getStatus() {
+            try {
+                const response = await fetch(`${API_URL}/api/status`);
+                const data = await response.json();
+                const uptime = Math.floor(data.bot.uptime_seconds / 60);
+                const message = `حالة البوت: ✅ يعمل\nوقت التشغيل: ${uptime} دقيقة\nالحالة: ${data.message}`;
+                showMessage('infoMessage', message, 'info');
+            } catch (error) {
+                showMessage('infoMessage', '❌ خطأ: ' + error.message, 'error');
+            }
+        }
+
+        // حفظ لبسة باسم
+        async function saveNamedOutfit() {
+            const name = document.getElementById('outfitName').value.trim();
+            if (!name) {
+                showMessage('saveNamedMessage', '❌ أدخل اسم اللبسة', 'error');
+                return;
+            }
+            try {
+                const response = await fetch(`${API_URL}/api/outfit/save-named`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ 
+                        name: name,
+                        items: Object.values(selectedItems)
+                    })
+                });
+                const data = await response.json();
+                if (data.status === 'success') {
+                    showMessage('saveNamedMessage', `💾 تم حفظ "${name}"!`, 'success');
+                    document.getElementById('outfitName').value = '';
+                    loadSavedOutfits();
+                } else {
+                    showMessage('saveNamedMessage', `❌ ${data.message}`, 'error');
+                }
+            } catch (error) {
+                showMessage('saveNamedMessage', '❌ خطأ: ' + error.message, 'error');
+            }
+        }
+
+        // تحميل قائمة اللبسات المحفوظة
+        async function loadSavedOutfits() {
+            try {
+                const response = await fetch(`${API_URL}/api/outfit/saved-list`);
+                const data = await response.json();
+                displaySavedOutfits(data.outfits || []);
+            } catch (error) {
+                console.error('خطأ في تحميل اللبسات:', error);
+            }
+        }
+
+        // عرض اللبسات المحفوظة
+        function displaySavedOutfits(outfits) {
+            const container = document.getElementById('savedOutfitsList');
+            container.innerHTML = '';
+            
+            if (outfits.length === 0) {
+                container.innerHTML = '<p style="text-align: center; color: #999;">لا توجد لبسات محفوظة</p>';
+                return;
+            }
+            
+            outfits.forEach(outfit => {
+                const btn = document.createElement('button');
+                btn.className = 'btn btn-primary';
+                btn.innerHTML = `
+                    <span>${outfit.name}</span><br>
+                    <small style="opacity: 0.8;">${outfit.items ? outfit.items.length : 0} عنصر</small>
+                `;
+                btn.onclick = () => loadNamedOutfit(outfit.name);
+                container.appendChild(btn);
+            });
+        }
+
+        // تحميل لبسة محفوظة
+        async function loadNamedOutfit(name) {
+            try {
+                const response = await fetch(`${API_URL}/api/outfit/load-named`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ name: name })
+                });
+                const data = await response.json();
+                if (data.status === 'success') {
+                    showMessage('savedOutfitsMessage', `⚡ تم تطبيق لبسة "${name}"!`, 'success');
+                } else {
+                    showMessage('savedOutfitsMessage', `❌ ${data.message}`, 'error');
+                }
+            } catch (error) {
+                showMessage('savedOutfitsMessage', '❌ خطأ: ' + error.message, 'error');
+            }
+        }
+
+        // إرسال أوامر مباشرة للبوت
+        async function sendCommand() {
+            const command = document.getElementById('commandInput').value.trim();
+            if (!command) {
+                showMessage('commandMessage', '❌ أدخل أمر', 'error');
+                return;
+            }
+            try {
+                const response = await fetch(`${API_URL}/api/command`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ command: command })
+                });
+                const data = await response.json();
+                if (data.status === 'success') {
+                    showMessage('commandMessage', `✅ ${data.message}`, 'success');
+                    document.getElementById('commandInput').value = '';
+                } else {
+                    showMessage('commandMessage', `❌ ${data.message}`, 'error');
+                }
+            } catch (error) {
+                showMessage('commandMessage', '❌ خطأ: ' + error.message, 'error');
+            }
+        }
+
+        // قائمة الأوامر
+        async function getCommands() {
+            try {
+                const response = await fetch(`${API_URL}/api/commands`);
+                const data = await response.json();
+                const outfitCmds = Object.entries(data.outfit_commands)
+                    .map(([k, v]) => `${k}: ${v.description}`)
+                    .join('\n');
+                const danceCmds = Object.entries(data.dance_commands)
+                    .map(([k, v]) => `${k}: ${v.description}`)
+                    .join('\n');
+                const message = `أوامر اللبس:\n${outfitCmds}\n\nأوامر الرقصات:\n${danceCmds}`;
+                showMessage('infoMessage', message, 'info');
+            } catch (error) {
+                showMessage('infoMessage', '❌ خطأ: ' + error.message, 'error');
+            }
+        }
+
+        // تحديث حالة البوت
+        async function updateStatus() {
+            try {
+                const response = await fetch(`${API_URL}/api/status`);
+                const data = await response.json();
+                const uptime = Math.floor(data.bot.uptime_seconds / 60);
+                document.getElementById('uptime').textContent = `${uptime} دقيقة`;
+                document.getElementById('status').textContent = '✅ البوت يعمل بشكل طبيعي';
+            } catch (error) {
+                document.getElementById('status').textContent = '❌ البوت غير متصل';
+            }
+        }
+
+        // تحديث دوري
+        updateStatus();
+        setInterval(updateStatus, 5000);
+        
+        // تهيئة محرر الملابس
+        initializeOutfitEditor();
+        loadSavedOutfits();
+
+        // اختصارات لوحة المفاتيح
+        document.addEventListener('keypress', function(event) {
+            if (event.key === 'c' && !event.ctrlKey) {
+                quickCopy();
+            }
+        });
+    </script>
+</body>
+</html>
